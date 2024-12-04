@@ -1,0 +1,30 @@
+name: Sync Fork with Upstream
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run every day at midnight UTC
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  sync-fork:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the fork
+      uses: actions/checkout@v3
+      with:
+        persist-credentials: false
+
+    - name: Add upstream remote
+      run: |
+        git remote add upstream https://github.com/LotroCompanion/lotro-data.git
+        git fetch upstream
+
+    - name: Merge changes from upstream
+      run: |
+        git checkout main  # Make sure you're on the main branch
+        git merge upstream/main
+
+    - name: Push changes to fork
+      run: |
+        git push origin main  # Push the changes back to your fork
