@@ -13,7 +13,7 @@ jobs:
     - name: Checkout the fork
       uses: actions/checkout@v3
       with:
-        persist-credentials: false
+        persist-credentials: false  # Disable automatic credential persistence
 
     - name: Add upstream remote
       run: |
@@ -40,5 +40,8 @@ jobs:
         git commit -m "Auto-resolved conflicts and merged upstream changes" || true
 
     - name: Push changes to fork
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        git push origin master  # Push the changes back to your fork
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+        git push origin master
