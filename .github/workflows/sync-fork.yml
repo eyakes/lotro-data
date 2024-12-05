@@ -39,9 +39,14 @@ jobs:
         
         git commit -m "Auto-resolved conflicts and merged upstream changes" || true
 
-    - name: Push changes to fork
+    - name: Pull remote changes and push to fork
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+        
+        # Pull remote changes to ensure sync
+        git pull origin master --rebase || true
+
+        # Push changes after pulling updates
         git push origin master
