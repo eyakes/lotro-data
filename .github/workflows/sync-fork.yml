@@ -28,7 +28,7 @@ jobs:
     - name: Merge changes from upstream with conflict resolution
       run: |
         git checkout master  # Ensure you're on the master branch
-        git merge upstream/master --strategy-option theirs || true
+        git merge upstream/master --strategy-option theirs --allow-unrelated-histories || true
         
         # Handle unresolved conflicts
         for file in $(git diff --name-only --diff-filter=U); do
