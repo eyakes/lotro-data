@@ -20,6 +20,11 @@ jobs:
         git remote add upstream https://github.com/LotroCompanion/lotro-data.git
         git fetch upstream
 
+    - name: Set Git User Identity
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
     - name: Merge changes from upstream
       run: |
         git checkout master  # Ensure you're on the master branch
