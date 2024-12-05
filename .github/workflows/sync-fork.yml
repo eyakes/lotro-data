@@ -25,10 +25,19 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-    - name: Merge changes from upstream
+    - name: Merge changes from upstream with conflict resolution
       run: |
         git checkout master  # Ensure you're on the master branch
-        git merge upstream/master --allow-unrelated-histories
+        git merge upstream/master --strategy-option theirs || true
+        
+        # Handle unresolved conflicts
+        for file in $(git diff --name-only --diff-filter=U); do
+          echo "Resolving conflict for $file with upstream changes"
+          git checkout --theirs "$file"
+          git add "$file"
+        done
+        
+        git commit -m "Auto-resolved conflicts and merged upstream changes" || true
 
     - name: Push changes to fork
       run: |
