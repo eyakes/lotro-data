@@ -5826,7 +5826,6 @@
 <label key="1879203497" value="Retirer ralentissement"/>
 <label key="1879203498" value="Nuage pestilentiel"/>
 <label key="1879203542" value="DNT - Distracting Shot reset by Needful Haste"/>
-<label key="1879203544" value="DNT - Scourging Blow makes the next Barbed Arrow have a shorter induction time"/>
 <label key="1879203545" value="DNT - Needful Hate recoveres Dazing Blow"/>
 <label key="1879203553" value="Déclencher Peur"/>
 <label key="1879203566" value="DNT"/>
@@ -6047,7 +6046,6 @@
 <label key="1879207213" value="Immobilisation"/>
 <label key="1879207224" value="DNT - Run a ScriptKey on the pet to get them to destroy themselves."/>
 <label key="1879207241" value="DNT - Banner Protection"/>
-<label key="1879207459" value="DNT - HeartSeeker makes the next Barbed Arrow have a shorter induction time"/>
 <label key="1879207542" value="Ruée"/>
 <label key="1879207543" value="DNT - Remove Move Speed"/>
 <label key="1879207545" value="DNT - Remove Flag"/>
@@ -18227,11 +18225,7 @@
 <label key="1879461934" value="Absorption de Moral"/>
 <label key="1879461952" value="En selle"/>
 <label key="1879461953" value="En selle"/>
-<label key="1879462692" value=""/>
 <label key="1879462693" value="Déploiement d'armes de siège autorisé"/>
-<label key="1879462694" value=""/>
-<label key="1879462695" value=""/>
-<label key="1879462696" value=""/>
 <label key="1879462697" value="Déploiement d'armes de siège autorisé"/>
 <label key="1879462704" value="DNT -- Summon Battering Ram"/>
 <label key="1879462705" value="DNT -- Summon Catapult"/>
@@ -22655,6 +22649,10 @@
 <label key="1879512935" value="DNT - Double Down cooldown mod"/>
 <label key="1879514064" value="En selle"/>
 <label key="1879514065" value="En selle"/>
+<label key="1879515013" value="Shadow Wisp"/>
+<label key="1879515023" value="En selle"/>
+<label key="1879515025" value="En selle"/>
+<label key="1879515275" value="Style enjoué"/>
 <label key="key:620757394:181298206" value="Porté : +1% aux chances de critique sur les attaques automatiques à distance."/>
 <label key="key:620757396:181298206" value="Porté : vos attaques automatiques à distance sont 5% plus difficiles à bloquer."/>
 <label key="key:620757522:54354734" value="Toutes les compétences basées sur un blocage réactif réussi peuvent désormais être utilisées."/>
@@ -23735,7 +23733,6 @@
 <label key="key:620809445:106251889" value="Définit votre profil de pêche comme étant celui du Festival d'été de Celomdin"/>
 <label key="key:620809445:54354734" value="Prend le contrôle de la pêche dans cette région afin qu'il soit possible d'attraper des poissons de quête."/>
 <label key="key:620809459:54354734" value="Vous avez appris la gigue."/>
-<label key="key:620809465:106251889" value=""/>
 <label key="key:620809465:54354734" value="Cet endroit paraît idéal pour attraper du poisson."/>
 <label key="key:620809478:106251889" value="Définit votre profil de pêche comme étant celui du Festival d'été de Bree"/>
 <label key="key:620809478:54354734" value="Prend le contrôle de la pêche dans cette région afin qu'il soit possible d'attraper des poissons de quête."/>
@@ -23906,7 +23903,6 @@
 <label key="key:620827487:106251890" value="+${PERCENTVALUE} aux dégâts"/>
 <label key="key:620827487:106251893" value="Réduction du temps de récupération des compétences de corps à corps"/>
 <label key="key:620827490:106251890" value="Réduit les déclenchements des compétences de guérison de ${PERCENTVALUE}"/>
-<label key="key:620827490:106251891" value=""/>
 <label key="key:620827490:106251892" value="C'est de la comédie ! et Arrêtez de vous plaindre et battez-vous ! réduisent la récupération active de Mort aux lâches ! de 10 s"/>
 <label key="key:620827509:54354734" value="Inflige des dégâts aux attaquants."/>
 <label key="key:620827516:106251889" value="x${VALUE} aux dégâts reçus"/>
@@ -26178,8 +26174,6 @@
 <label key="key:620874060:54354734" value="DNT - Improved Staff Strike doesn't consume Flank."/>
 <label key="key:620874078:181298206" value="Tous les compagnons à proximité sont frappés par la Rage qui vous habite encore"/>
 <label key="key:620874079:106251889" value="+${PERCENTVALUE} aux dégâts infligés"/>
-<label key="key:620874079:106251890" value=""/>
-<label key="key:620874079:106251891" value=""/>
 <label key="key:620874079:54354734" value="Des morceaux d'Etre spectral vous recouvrent entièrement. La rage qui vous habite ne connaît aucune limite. Vous devez écraser tous vos ennemis !"/>
 <label key="key:620874097:181298206" value="Emplacement de la cinquième résidence - ${DESTINATION}."/>
 <label key="key:620874098:181298206" value="Emplacement de la sixième résidence - ${DESTINATION}."/>
@@ -26233,7 +26227,6 @@
 <label key="key:620876145:106251889" value="Pas de déclenchement de Flèche barbelée suivante"/>
 <label key="key:620876149:54354734" value="Ce nuage mortel peut tuer rapidement tous ceux qu'il enveloppe."/>
 <label key="key:620876198:181298206" value="Récupération de Tir de distraction"/>
-<label key="key:620876199:54354734" value="DNT - Scourging Blow makes the next Barbed Arrow have a shorter induction time"/>
 <label key="key:620876200:54354734" value="DNT - Needful Hate recoveres Dazing Blow"/>
 <label key="key:620876223:181298206" value="Sur coup : supprime toutes les Racines et Affaiblissements de la vitesse de déplacement et accorde une immunité de 5s"/>
 <label key="key:620876223:54354734" value="Supprime toutes les Racines et Affaiblissements de la vitesse de déplacement"/>
@@ -26474,7 +26467,6 @@
 <label key="key:620878760:54354734" value="Les vents du Forochel se sont levés et donnent force et puissance à ceux qu'ils balaient."/>
 <label key="key:620878794:54354734" value="Les racines agrippent les pieds de ceux qui s'en approchent, les empêchant ainsi de se déplacer."/>
 <label key="key:620878813:54354734" value="Les montres alliés ne peuvent être affectés par la bannière d'affaiblissement."/>
-<label key="key:620878874:54354734" value="DNT - HeartSeeker makes the next Barbed Arrow have a shorter induction time"/>
 <label key="key:620878928:54354734" value="Un mammouth surexcité semble vouloir vous prendre pour cible !"/>
 <label key="key:620878929:54354734" value="Ce mammouth est en pleine ruée !"/>
 <label key="key:620878930:54354734" value="La vapeur s'échappant de la bouche d'aération vous réchauffe le corps ; l'air devient humide, mais votre esprit s'apaise."/>
@@ -38320,4 +38312,14 @@
 <label key="key:621114042:106251890" value="Incapable d'esquiver."/>
 <label key="key:621114042:106251891" value="Incapable de parer."/>
 <label key="key:621114042:106251892" value="Incapable de bloquer."/>
+<label key="key:621114928:54354734" value="An etherial fragment of shadow dances eratically at the edge of your vision."/>
+<label key="key:621114939:106251889" value="Vitesse : ${PERCENTVALUE}&#10;Moral : 250"/>
+<label key="key:621114939:106251890" value="Incapable d'esquiver."/>
+<label key="key:621114939:106251891" value="Incapable de parer."/>
+<label key="key:621114939:106251892" value="Incapable de bloquer."/>
+<label key="key:621114942:106251889" value="Vitesse : ${PERCENTVALUE}&#10;Moral : 250"/>
+<label key="key:621114942:106251890" value="Incapable d'esquiver."/>
+<label key="key:621114942:106251891" value="Incapable de parer."/>
+<label key="key:621114942:106251892" value="Incapable de bloquer."/>
+<label key="key:621115188:54354734" value="Rentrez chez vous de manière enjouée."/>
 </labels>

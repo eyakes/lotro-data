@@ -3750,6 +3750,12 @@
 <label key="1879514521" value="Apple-picker's Accessory"/>
 <label key="1879514524" value="Apple-picker's Saddle"/>
 <label key="1879514525" value="Apple-picker's Caparison"/>
+<label key="1879514656" value="Hand-knells Use"/>
+<label key="1879515276" value="Jaunty Leg-guards"/>
+<label key="1879515277" value="Jaunty Head-piece"/>
+<label key="1879515278" value="Jaunty Accessory"/>
+<label key="1879515279" value="Jaunty Caparison"/>
+<label key="1879515280" value="Jaunty Saddle"/>
 <label key="key:620757613:191029568" value="You have an been acknowledged as someone who could one day influence the fate of Middle-earth."/>
 <label key="key:620757613:54354734" value="You have been acknowledged as someone who could one day influence the fate of Middle-earth."/>
 <label key="key:620758784:191029568" value="You are able to ride mounts."/>
@@ -6375,7 +6381,6 @@
 <label key="key:620915340:54354734" value="The skill Burglar's Antidote now applies to the Fellowship."/>
 <label key="key:620915343:54354734" value="The skill Subtle Stab does additional damage."/>
 <label key="key:620915358:106251889" value="+${PERCENTVALUE} Melee Damage when not Stealthed"/>
-<label key="key:620915358:106251890" value=""/>
 <label key="key:620915358:54354734" value="You are adept at bluffing and fighting in the face of an enemy looking directly at you."/>
 <label key="key:620915359:106251889" value="+${PERCENTVALUE} Even the Odds Chance"/>
 <label key="key:620915359:54354734" value="The skill Double-edged Strike may grant you a random buff when used on a target with an active Gamble."/>
@@ -6430,7 +6435,6 @@
 <label key="key:620916720:54354734" value="Changes all Traps to ranged, ground-targeted skills."/>
 <label key="key:620916731:54354734" value="Earn the skill: Strength of the Earth."/>
 <label key="key:620916732:54354734" value="Increases Ranged Damage."/>
-<label key="key:620916733:106251889" value=""/>
 <label key="key:620916733:54354734" value="Blood arrow now applies an additional latent heal."/>
 <label key="key:620916734:54354734" value="Earn the skill: Rapid Fire."/>
 <label key="key:620916735:54354734" value="Intent Concentration allows your bow skills to restore Power for a short time."/>
@@ -6956,7 +6960,6 @@
 <label key="key:620922797:106251890" value="+${VALUE}s Subtle Stab Cooldown"/>
 <label key="key:620922797:54354734" value="Mischief-maker Burglars control fights by tricking their foes into submission."/>
 <label key="key:620922798:54354734" value="Powerful healers, offering buffs to healing potency and frequency. These Minstrels heal the Morale of the Fellowship and themselves."/>
-<label key="key:620922799:106251891" value=""/>
 <label key="key:620922799:54354734" value="Trappers are relentless pursuers of evil creatures and stalwart companions in the face of powerful foes. Trappers rely on their great knowledge of the wilds and keen combat senses to diminish and control their quarries."/>
 <label key="key:620922800:54354734" value="Uses a wide array of AoE attacks, inflicting whirling damage upon many foes at once."/>
 <label key="key:620922801:54354734" value="A mobile, burst-damage line, with a number of instant-cast and potent skills to increase DPS."/>
@@ -7269,7 +7272,6 @@
 <label key="key:620926101:191029568" value="Grants access to Song of Aid"/>
 <label key="key:620926101:54354734" value="Grants access to Song of Aid, which gives each member of your fellowship a unique buff based on their class."/>
 <label key="key:620926103:54354734" value="Increases the number of targets hit by your Killstreak skills."/>
-<label key="key:620926513:191029568" value=""/>
 <label key="key:620926513:54354734" value="You strike with fury, leaving your enemies with more potent wounds."/>
 <label key="key:620926524:191029568" value="Grants access to Call to Ioreth"/>
 <label key="key:620926524:54354734" value="Grants access to Call to Ioreth, which causes your next heal to be a critical heal."/>
@@ -9233,4 +9235,6 @@
 <label key="key:621109616:54354734" value="You persevere even when everything seems stacked against you."/>
 <label key="key:621110348:191029568" value="After striking suddenly from stealth, you're sometimes able to sneak in another strike, quick as lightning."/>
 <label key="key:621110348:54354734" value="After striking suddenly from stealth, you're sometimes able to sneak in another strike, quick as lightning."/>
+<label key="key:621114624:191029568" value="Allows the use of Hand-knells."/>
+<label key="key:621114624:54354734" value="Allows the use of Hand-knells."/>
 </labels>
