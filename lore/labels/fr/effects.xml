@@ -23591,7 +23591,6 @@
 <label key="1879522590" value="DNT - Smashed Bones"/>
 <label key="1879522594" value="Instable"/>
 <label key="1879522595" value="DNT"/>
-<label key="1879522596" value="DNT - Draining strike heal and power restore"/>
 <label key="1879522597" value="DNT - Draining strike heals power and morale to nearby allies"/>
 <label key="1879522602" value=".."/>
 <label key="1879522605" value=".."/>
@@ -23621,6 +23620,8 @@
 <label key="1879522721" value="DNT - Damage Reduction while channeling Relentless Maul"/>
 <label key="1879522722" value="DNT - Morale Bubble to nearby allies after channeling Relentless Maul"/>
 <label key="1879522725" value="Mutilation acharnée"/>
+<label key="1879522726" value="Refuge de la férocité"/>
+<label key="1879522735" value="DNT - Relentless Maul Bubble"/>
 <label key="1879522757" value="Dégâts infligés x0,50 - Réduction de 50 %"/>
 <label key="1879522759" value="Dégâts infligés x0,75 - Réduction de 25 %"/>
 <label key="1879522763" value="Dégâts infligés x0,90 - Réduction de 10 %"/>
@@ -23759,7 +23760,7 @@
 <label key="1879523950" value="DNT -"/>
 <label key="1879523951" value="Riposte explosive"/>
 <label key="1879523952" value="Alacrité tourbillonnante"/>
-<label key="1879523953" value="Serment des sables"/>
+<label key="1879523953" value="Oath of the Sands"/>
 <label key="1879523958" value="DNT"/>
 <label key="1879523961" value="DNT -"/>
 <label key="1879523962" value="DNT -reduce jugg CD"/>
@@ -23856,6 +23857,8 @@
 <label key="1879524481" value=".."/>
 <label key="1879524624" value="DNT"/>
 <label key="1879524625" value="DNT - Carrier"/>
+<label key="1879524949" value="DNT"/>
+<label key="1879524983" value="DNT - Draining Strike Restores"/>
 <label key="key:620757394:181298206" value="Porté : +1% aux chances de critique sur les attaques automatiques à distance."/>
 <label key="key:620757396:181298206" value="Porté : vos attaques automatiques à distance sont 5% plus difficiles à bloquer."/>
 <label key="key:620757522:54354734" value="Toutes les compétences basées sur un blocage réactif réussi peuvent désormais être utilisées."/>
@@ -30443,8 +30446,8 @@
 <label key="key:620928235:54354734" value="DNT"/>
 <label key="key:620928291:54354734" value="Voici des documents récupérés dans les appartements de Gríma."/>
 <label key="key:620930857:54354734" value="Vos alliés voudraient que vous éliminiez cet ennemi en premier."/>
-<label key="key:620931060:181298206" value="+5 % de chances de critique dévastateur pour 15 s&#10;Cumulable 4 fois"/>
-<label key="key:620931060:54354734" value="+5 % de chances de critique dévastateur pour 15 s&#10;Cumulable 4 fois"/>
+<label key="key:620931060:181298206" value="+5% de chances de critique dévastateur pour 15 s&#10;Cumulable 4 fois"/>
+<label key="key:620931060:54354734" value="+5% de chances de critique dévastateur pour 15 s&#10;Cumulable 4 fois"/>
 <label key="key:620931126:106251889" value="+${PERCENTVALUE} de gain d'expérience pour les monstres tués, l'artisanat et les quêtes terminées"/>
 <label key="key:620931126:54354734" value="Octroie un bonus d'expérience jusqu'à ce que le personnage atteigne le niveau 85."/>
 <label key="key:620931337:106251889" value="Augmentation des dégâts au corps à corps par allié à proximité"/>
@@ -37841,7 +37844,9 @@
 <label key="key:621095356:54354734" value="Augmente la menace de la source contre la cible."/>
 <label key="key:621095357:106251889" value="x${VALUE} aux dégâts reçus"/>
 <label key="key:621095357:106251891" value="##-1:{Immunisé[m]|Immunisée[f]} contre les états de combats négatifs."/>
+<label key="key:621095362:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095362:54354734" value="Transférez de la menace à votre compagnon."/>
+<label key="key:621095363:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095363:54354734" value="Transférez de la menace à votre compagnon."/>
 <label key="key:621095377:106251889" value="x${VALUE} aux dégâts reçus"/>
 <label key="key:621095377:54354734" value="Les dégâts subis sont légèrement réduits jusqu'à ce que vous receviez une compétence de guérison.&#10;Recevoir une compétence de guérison annule cet effet et vous accorde du Moral supplémentaire."/>
@@ -39992,16 +39997,16 @@
 <label key="key:621120005:181298206" value="Un souvenir d'Idagâl, accompagné d'une voix étrange."/>
 <label key="key:621120005:54354734" value="Un souvenir d'Idagâl, agrémenté de murmures."/>
 <label key="key:621120016:54354734" value="DNT - pulses meteorfall hotspots on targets in an area."/>
-<label key="key:621120052:181298206" value="Upheaval"/>
-<label key="key:621120052:54354734" value=".."/>
-<label key="key:621120054:181298206" value="Upheaval"/>
-<label key="key:621120054:54354734" value=".."/>
-<label key="key:621120056:181298206" value="A Cascading Bloom will grow beneath your feet."/>
-<label key="key:621120056:54354734" value=".."/>
-<label key="key:621120057:181298206" value="Upheaval"/>
-<label key="key:621120057:54354734" value=".."/>
-<label key="key:621120059:181298206" value="A Blighted Bloom will burst forth!"/>
-<label key="key:621120059:54354734" value=".."/>
+<label key="key:621120052:181298206" value="Bouleversement"/>
+<label key="key:621120052:54354734" value="Bouleversement"/>
+<label key="key:621120054:181298206" value="Bouleversement"/>
+<label key="key:621120054:54354734" value="Bouleversement"/>
+<label key="key:621120056:181298206" value="Une cascade de bourgeons apparaîtra sous vos pieds."/>
+<label key="key:621120056:54354734" value="Une cascade de bourgeons apparaîtra sous vos pieds."/>
+<label key="key:621120057:181298206" value="Bouleversement"/>
+<label key="key:621120057:54354734" value="Bouleversement"/>
+<label key="key:621120059:181298206" value="Un bourgeon infecté va s'ouvrir !"/>
+<label key="key:621120059:54354734" value="Un bourgeon infecté va s'ouvrir !"/>
 <label key="key:621120062:54354734" value=".."/>
 <label key="key:621120064:54354734" value=".."/>
 <label key="key:621120068:54354734" value="Un résidu fongique des eaux sales du bassin vous recouvre."/>
@@ -40095,7 +40100,7 @@
 <label key="key:621120806:54354734" value=".."/>
 <label key="key:621120808:54354734" value=".."/>
 <label key="key:621120824:106251890" value="Lance du destin supprime les temps de récupération de Maîtrise pendant un instant."/>
-<label key="key:621120826:106251889" value="Les enchaînements à deux coups augmenteront l'effet qui améliore les dégâts de votre prochaine Lance du destin."/>
+<label key="key:621120826:106251889" value="Les enchaînements à deux coups augmenteront l'effet qui améliore les dégâts de votre prochaine Lance du destin.&#10;&#10;Au niveau 3, Lance du destin supprime vos temps de récupération de maîtrise pendant un court instant."/>
 <label key="key:621120843:106251889" value="+${PERCENTVALUE} aux dégâts infligés"/>
 <label key="key:621120844:106251889" value="Les coups critiques de Frappe imprudente vous procureront une réaction de parade."/>
 <label key="key:621121206:54354734" value="Cette créature a été infectée par des spores enragées et commence à se mettre en colère."/>
@@ -40166,5 +40171,7 @@
 <label key="key:621121870:54354734" value="Vous avez appris l'emote danse_forts."/>
 <label key="key:621121875:54354734" value=".."/>
 <label key="key:621121953:54354734" value=".."/>
-<label key="key:621122080:181298206" value="Cleanse any active Blight Mastery or Red, Blue, or Yellow spores from yourself."/>
+<label key="key:621122080:181298206" value="Purifie toute Maîtrise du fléau active et les spores rouges, bleues ou jaunes sur vous."/>
+<label key="key:621122387:106251889" value="Your next Guardian's Ward or Whirling Retaliation gains a bonus effect"/>
+<label key="key:621122387:181298206" value="Oath of the Sands:"/>
 </labels>

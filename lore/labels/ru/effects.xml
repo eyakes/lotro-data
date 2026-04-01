@@ -23591,7 +23591,6 @@
 <label key="1879522590" value="DNT - Smashed Bones"/>
 <label key="1879522594" value="Unstable"/>
 <label key="1879522595" value="DNT"/>
-<label key="1879522596" value="DNT - Draining strike heal and power restore"/>
 <label key="1879522597" value="DNT - Draining strike heals power and morale to nearby allies"/>
 <label key="1879522602" value=".."/>
 <label key="1879522605" value=".."/>
@@ -23621,6 +23620,8 @@
 <label key="1879522721" value="DNT - Damage Reduction while channeling Relentless Maul"/>
 <label key="1879522722" value="DNT - Morale Bubble to nearby allies after channeling Relentless Maul"/>
 <label key="1879522725" value="Relentless Maul"/>
+<label key="1879522726" value="Ferocity's Refuge"/>
+<label key="1879522735" value="DNT - Relentless Maul Bubble"/>
 <label key="1879522757" value="x0.50 Outgoing Damage - 50% Reduction"/>
 <label key="1879522759" value="x0.75 Outgoing Damage - 25% Reduction"/>
 <label key="1879522763" value="x0.90 Outgoing Damage - 10% Reduction"/>
@@ -23759,7 +23760,7 @@
 <label key="1879523950" value="DNT -"/>
 <label key="1879523951" value="Explosive Retaliation"/>
 <label key="1879523952" value="Whirlwind Alacrity"/>
-<label key="1879523953" value="Сокрушительное лезвие -парирование"/>
+<label key="1879523953" value="Oath of the Sands"/>
 <label key="1879523958" value="DNT"/>
 <label key="1879523961" value="DNT -"/>
 <label key="1879523962" value="DNT -reduce jugg CD"/>
@@ -23856,6 +23857,8 @@
 <label key="1879524481" value=".."/>
 <label key="1879524624" value="DNT"/>
 <label key="1879524625" value="DNT - Carrier"/>
+<label key="1879524949" value="DNT"/>
+<label key="1879524983" value="DNT - Draining Strike Restores"/>
 <label key="key:620757394:181298206" value="При экипировке: +1% к вероятности нанесения критического урона при автоатаке"/>
 <label key="key:620757396:181298206" value="При экипировке: -5% к блокированию противником автоатак."/>
 <label key="key:620757522:54354734" value="Позволяет использовать умения, основанные на эффекте 'Эхо блокирования'."/>
@@ -37841,7 +37844,9 @@
 <label key="key:621095356:54354734" value="Увеличивает угрозу источника для цели."/>
 <label key="key:621095357:106251889" value="x${VALUE} от получаемого урона"/>
 <label key="key:621095357:106251891" value="Неуязвимость к негативным боевым состояниям"/>
+<label key="key:621095362:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095362:54354734" value="Переводит угрозу на вашего спутника."/>
+<label key="key:621095363:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095363:54354734" value="Переводит угрозу на вашего спутника."/>
 <label key="key:621095377:106251889" value="x${VALUE} от получаемого урона"/>
 <label key="key:621095377:54354734" value="Ваш получаемый урон немного снижается до тех пор, пока на вас не будет наложено исцеляющее умение.&#10;Если вы станете мишенью для исцеляющего умения, это снимет эффект и даст вам прибавку  к боевому духу."/>
@@ -40167,4 +40172,6 @@
 <label key="key:621121875:54354734" value=".."/>
 <label key="key:621121953:54354734" value=".."/>
 <label key="key:621122080:181298206" value="Cleanse any active Blight Mastery or Red, Blue, or Yellow spores from yourself."/>
+<label key="key:621122387:106251889" value="Your next Guardian's Ward or Whirling Retaliation gains a bonus effect"/>
+<label key="key:621122387:181298206" value="Oath of the Sands:"/>
 </labels>

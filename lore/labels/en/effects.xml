@@ -9951,7 +9951,7 @@
 <label key="1879273429" value="DNT - Leader of Men 4-set Bonus"/>
 <label key="1879273445" value="Mounted"/>
 <label key="1879273446" value="Mounted"/>
-<label key="1879273478" value="Oath of the Sands"/>
+<label key="1879273478" value="Smashing Stab - Parry"/>
 <label key="1879273479" value="Smashing Stab - Block"/>
 <label key="1879273492" value="Emboldened Blades 1"/>
 <label key="1879273493" value="Emboldened Blades 2"/>
@@ -23591,7 +23591,6 @@
 <label key="1879522590" value="DNT - Smashed Bones"/>
 <label key="1879522594" value="Unstable"/>
 <label key="1879522595" value="DNT"/>
-<label key="1879522596" value="DNT - Draining strike heal and power restore"/>
 <label key="1879522597" value="DNT - Draining strike heals power and morale to nearby allies"/>
 <label key="1879522602" value=".."/>
 <label key="1879522605" value=".."/>
@@ -23621,6 +23620,8 @@
 <label key="1879522721" value="DNT - Damage Reduction while channeling Relentless Maul"/>
 <label key="1879522722" value="DNT - Morale Bubble to nearby allies after channeling Relentless Maul"/>
 <label key="1879522725" value="Relentless Maul"/>
+<label key="1879522726" value="Ferocity's Refuge"/>
+<label key="1879522735" value="DNT - Relentless Maul Bubble"/>
 <label key="1879522757" value="x0.50 Outgoing Damage - 50% Reduction"/>
 <label key="1879522759" value="x0.75 Outgoing Damage - 25% Reduction"/>
 <label key="1879522763" value="x0.90 Outgoing Damage - 10% Reduction"/>
@@ -23696,10 +23697,10 @@
 <label key="1879523229" value="Heroic Spear of Fate III"/>
 <label key="1879523233" value="Heroic Spear of Fate I"/>
 <label key="1879523234" value="Storming Blade"/>
-<label key="1879523235" value="Healing"/>
+<label key="1879523235" value="Philosopher's Vigour"/>
 <label key="1879523236" value="Shield Gambit Morale"/>
 <label key="1879523237" value="Final Strike Rake Closure"/>
-<label key="1879523240" value="Restore Power"/>
+<label key="1879523240" value="Philosopher's Power"/>
 <label key="1879523241" value="Raking Thrash"/>
 <label key="1879523242" value="Mighty Roar"/>
 <label key="1879523244" value="Break Ranks - Personal"/>
@@ -23856,6 +23857,8 @@
 <label key="1879524481" value=".."/>
 <label key="1879524624" value="DNT"/>
 <label key="1879524625" value="DNT - Carrier"/>
+<label key="1879524949" value="DNT"/>
+<label key="1879524983" value="DNT - Draining Strike Restores"/>
 <label key="key:620757394:181298206" value="Wield: +1% Critical Hit Chance to ranged auto-attacks."/>
 <label key="key:620757396:181298206" value="Wield: Your Ranged auto-attacks are 5% tougher to Block."/>
 <label key="key:620757522:54354734" value="Any Skills that are based on a successful block response may now be played."/>
@@ -30173,7 +30176,7 @@
 <label key="key:620923547:106251890" value="Unable to evade."/>
 <label key="key:620923547:106251891" value="Unable to parry."/>
 <label key="key:620923547:106251892" value="Unable to block."/>
-<label key="key:620923580:106251889" value="Your next Guardian's Ward or Whirling Retaliation gains a bonus effect"/>
+<label key="key:620923580:106251889" value=""/>
 <label key="key:620923595:54354734" value="This effect tiers up to five times:"/>
 <label key="key:620923597:106251890" value="Remorseless Strike now damages multiple foes."/>
 <label key="key:620923600:106251892" value="Remorseless Strike now damages multiple foes."/>
@@ -37841,7 +37844,9 @@
 <label key="key:621095356:54354734" value="Increases the source's threat against the target."/>
 <label key="key:621095357:106251889" value="x${VALUE} Incoming Damage"/>
 <label key="key:621095357:106251891" value="Immune to Negative Combat States"/>
+<label key="key:621095362:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095362:54354734" value="Transfer threat to your companion."/>
+<label key="key:621095363:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095363:54354734" value="Transfer threat to your companion."/>
 <label key="key:621095377:106251889" value="x${VALUE} Incoming Damage"/>
 <label key="key:621095377:54354734" value="Your Incoming Damage is reduced slightly until you are targeted by a healing skill.&#10;Being targeted by a healing skill will remove this effect and grant you bonus Morale."/>
@@ -40046,7 +40051,7 @@
 <label key="key:621120315:54354734" value="Your bones are brittle from punishment."/>
 <label key="key:621120316:54354734" value="Your bones are brittle from punishment."/>
 <label key="key:621120318:54354734" value="These mushrooms appear to be unstable and susceptible to disruption."/>
-<label key="key:621120323:106251889" value="Draining Strike heals restores Morale and Power to nearby allies."/>
+<label key="key:621120323:106251889" value="Draining Strike restores Morale and Power to nearby allies."/>
 <label key="key:621120325:54354734" value=".."/>
 <label key="key:621120328:54354734" value=".."/>
 <label key="key:621120358:54354734" value="When cured, creates Corrupted Blood, damages all allies, and replicates to nearby allies."/>
@@ -40058,7 +40063,7 @@
 <label key="key:621120419:106251889" value="Shield Gambits each restore 2.5% of your max health and reduce the cooldown of Desperate Combat by 2 seconds."/>
 <label key="key:621120420:106251889" value="x${VALUE} Incoming Damage"/>
 <label key="key:621120421:106251889" value="While using Relentless Maul, you gain: ${EFFECTLIST}"/>
-<label key="key:621120427:106251889" value="When you conclude Relentless Maul, fellows within 8m gain a bubble."/>
+<label key="key:621120427:106251889" value="When you begin Relentless Maul, fellows within 8m gain a bubble."/>
 <label key="key:621120455:106251889" value="x${VALUE} Outgoing Damage"/>
 <label key="key:621120457:106251889" value="x${VALUE} Outgoing Damage"/>
 <label key="key:621120459:106251889" value="x${VALUE} Outgoing Damage"/>
@@ -40167,4 +40172,6 @@
 <label key="key:621121875:54354734" value=".."/>
 <label key="key:621121953:54354734" value=".."/>
 <label key="key:621122080:181298206" value="Cleanse any active Blight Mastery or Red, Blue, or Yellow spores from yourself."/>
+<label key="key:621122387:106251889" value="Your next Guardian's Ward or Whirling Retaliation gains a bonus effect"/>
+<label key="key:621122387:181298206" value="Oath of the Sands:"/>
 </labels>
