@@ -23591,7 +23591,6 @@
 <label key="1879522590" value="DNT - Smashed Bones"/>
 <label key="1879522594" value="Unbeständig"/>
 <label key="1879522595" value="DNT"/>
-<label key="1879522596" value="DNT - Draining strike heal and power restore"/>
 <label key="1879522597" value="DNT - Draining strike heals power and morale to nearby allies"/>
 <label key="1879522602" value=".."/>
 <label key="1879522605" value=".."/>
@@ -23621,6 +23620,8 @@
 <label key="1879522721" value="DNT - Damage Reduction while channeling Relentless Maul"/>
 <label key="1879522722" value="DNT - Morale Bubble to nearby allies after channeling Relentless Maul"/>
 <label key="1879522725" value="Unerbittliche Zerfleischung"/>
+<label key="1879522726" value="Zuflucht der Wildheit"/>
+<label key="1879522735" value="DNT - Relentless Maul Bubble"/>
 <label key="1879522757" value="x0,5 verursachter Schaden - um 50 % verringert"/>
 <label key="1879522759" value="x0,75 verursachter Schaden - um 25 % verringert"/>
 <label key="1879522763" value="x0,9 verursachter Schaden - um 10 % verringert"/>
@@ -23759,7 +23760,7 @@
 <label key="1879523950" value="DNT -"/>
 <label key="1879523951" value="Explosive Vergeltung"/>
 <label key="1879523952" value="Wirbelwind-Tatendrang"/>
-<label key="1879523953" value="Schwur der Sande"/>
+<label key="1879523953" value="Oath of the Sands"/>
 <label key="1879523958" value="DNT"/>
 <label key="1879523961" value="DNT -"/>
 <label key="1879523962" value="DNT -reduce jugg CD"/>
@@ -23856,6 +23857,8 @@
 <label key="1879524481" value=".."/>
 <label key="1879524624" value="DNT"/>
 <label key="1879524625" value="DNT - Carrier"/>
+<label key="1879524949" value="DNT"/>
+<label key="1879524983" value="DNT - Draining Strike Restores"/>
 <label key="key:620757394:181298206" value="Waffe führen: + 1 % Wahrscheinlichkeit auf kritische Treffer bei automatischen Fernangriffen."/>
 <label key="key:620757396:181298206" value="Waffe führen: Eure automatischen Fernangriffe sind 5 % schwieriger zu blocken."/>
 <label key="key:620757522:54354734" value="Jede Fertigkeit, die einen erfolgreichen Block voraussetzt, kann nun eingesetzt werden."/>
@@ -37841,7 +37844,9 @@
 <label key="key:621095356:54354734" value="Erhöht die Bedrohung der Quelle gegen das Ziel."/>
 <label key="key:621095357:106251889" value="x${VALUE} erlittener Schaden"/>
 <label key="key:621095357:106251891" value="Immun gegenüber negativen Kampfzuständen"/>
+<label key="key:621095362:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095362:54354734" value="Überträgt Bedrohung auf Eure Begleitung."/>
+<label key="key:621095363:181298206" value="Transfer threat to your companion."/>
 <label key="key:621095363:54354734" value="Überträgt Bedrohung auf Eure Begleitung."/>
 <label key="key:621095377:106251889" value="x${VALUE} erlittener Schaden"/>
 <label key="key:621095377:54354734" value="Euer erlittener Schaden wird leicht reduziert, bis Ihr Ziel einer Heilfertigkeit werdet.&#10;Wenn Ihr Ziel einer Heilfertigkeit werdet, wird dieser Effekt aufgehoben und Ihr erhaltet Bonusmoral."/>
@@ -39822,7 +39827,7 @@
 <label key="key:621117312:106251889" value="+${PERCENTVALUE} erlittener Schaden"/>
 <label key="key:621117373:106251889" value="\qBarmherziger Schlag\q kann unabhängig von der Lebensenergie des Gegners eingesetzt werden."/>
 <label key="key:621117467:54354734" value="Ihr tragt Verbände und seid bereit, sie den Verwundeten anzulegen."/>
-<label key="key:621117472:54354734" value="Ihr tragt ein Kriegshorn bei Euch und seid bereit, verbündete Soldaten zu ermutigen."/>
+<label key="key:621117472:54354734" value="Ihr tragt ein Kriegshorn bei Euch und seid bereit, verbündete Soldaten zusammenzurufen."/>
 <label key="key:621117503:106251895" value="Wenn Ihr angegriffen werdet, wird Euer Schleichen nicht abgebrochen."/>
 <label key="key:621117503:181298206" value="Kurzes Schleichen"/>
 <label key="key:621117506:54354734" value="Ihr werdet von einer Wolke aus seltsamen Sporen verschlungen - als Ihr sie einatmet, wird Euer Verstand von grässlichen Bildern heimgesucht."/>
@@ -39992,16 +39997,16 @@
 <label key="key:621120005:181298206" value="Ein Andenken an Idagâl mit einer eigenartigen Stimme."/>
 <label key="key:621120005:54354734" value="Ein Andenken an Idagâl mit Flüstern."/>
 <label key="key:621120016:54354734" value="DNT - pulses meteorfall hotspots on targets in an area."/>
-<label key="key:621120052:181298206" value="Upheaval"/>
-<label key="key:621120052:54354734" value=".."/>
-<label key="key:621120054:181298206" value="Upheaval"/>
-<label key="key:621120054:54354734" value=".."/>
-<label key="key:621120056:181298206" value="A Cascading Bloom will grow beneath your feet."/>
-<label key="key:621120056:54354734" value=".."/>
-<label key="key:621120057:181298206" value="Upheaval"/>
-<label key="key:621120057:54354734" value=".."/>
-<label key="key:621120059:181298206" value="A Blighted Bloom will burst forth!"/>
-<label key="key:621120059:54354734" value=".."/>
+<label key="key:621120052:181298206" value="Aufruhr"/>
+<label key="key:621120052:54354734" value="Aufruhr"/>
+<label key="key:621120054:181298206" value="Aufruhr"/>
+<label key="key:621120054:54354734" value="Aufruhr"/>
+<label key="key:621120056:181298206" value="Eine Fallende Blüte wird unter Euren Füßen wachsen."/>
+<label key="key:621120056:54354734" value="Eine Fallende Blüte wird unter Euren Füßen wachsen."/>
+<label key="key:621120057:181298206" value="Aufruhr"/>
+<label key="key:621120057:54354734" value="Aufruhr"/>
+<label key="key:621120059:181298206" value="Eine Verderbte Blüte wird sprießen!"/>
+<label key="key:621120059:54354734" value="Eine Verderbte Blüte wird sprießen!"/>
 <label key="key:621120062:54354734" value=".."/>
 <label key="key:621120064:54354734" value=".."/>
 <label key="key:621120068:54354734" value="Das widerwärtige Wasser des Beckens hat Euch mit einer Schicht Pilzsporen überzogen."/>
@@ -40095,7 +40100,7 @@
 <label key="key:621120806:54354734" value=".."/>
 <label key="key:621120808:54354734" value=".."/>
 <label key="key:621120824:106251890" value="\qSpeer des Schicksals\q entfernt einen Augenblick lang Eure \qBeherrschung\q-Abklingzeiten."/>
-<label key="key:621120826:106251889" value="Zweilagige Gambits steigern einen Effekt, der den Schaden Eures nächsten 'Speer des Schicksals' erhöht."/>
+<label key="key:621120826:106251889" value="Zweilagige Gambits erhöhen die Stufe eines Effekts, der den Schaden Eures nächsten \qSpeer des Schicksals\q erhöht.&#10;Auf Stufe 3 entfernt \qSpeer des Schicksals\q einen Augenblick lang Eure \qBeherrschung\q-Abklingzeiten."/>
 <label key="key:621120843:106251889" value="+${PERCENTVALUE} angerichteter Schaden"/>
 <label key="key:621120844:106251889" value="Kritische Treffer mit \qWaghalsiger Schlag\q gewähren Euch eine Parieren-Erwiderung."/>
 <label key="key:621121206:54354734" value="Diese Kreatur hat sich mit Erzürnenden Sporen infiziert und wird wütend."/>
@@ -40166,5 +40171,7 @@
 <label key="key:621121870:54354734" value="Ihr habt ein neues Emote gelernt: Starrentanz."/>
 <label key="key:621121875:54354734" value=".."/>
 <label key="key:621121953:54354734" value=".."/>
-<label key="key:621122080:181298206" value="Cleanse any active Blight Mastery or Red, Blue, or Yellow spores from yourself."/>
+<label key="key:621122080:181298206" value="Befreit Euch selbst von Fäulnisbeherrschung beziehungsweise roten, blauen oder gelben Sporen."/>
+<label key="key:621122387:106251889" value="Your next Guardian's Ward or Whirling Retaliation gains a bonus effect"/>
+<label key="key:621122387:181298206" value="Oath of the Sands:"/>
 </labels>

@@ -27882,7 +27882,7 @@
 <stat name="VITALITY" scaling="1879211535"/>
 </bonus>
 <bonus nbItems="3">
-<stat name="Itemset_Minstrel_MinorBallad_Buff_AddedEffects_Override" descriptionOverride="key:621116499:108054835" constant="0.1"/>
+<stat name="Itemset_Minstrel_MinorBallad_Buff_AddedEffects_Override" descriptionOverride="key:621116499:108054835" constant="10.0"/>
 </bonus>
 <bonus nbItems="4">
 <effect id="1879523120" name="DNT - Triumphant Spirit now has a delayed heal but makes you take 30% less damage"/>

@@ -5083,9 +5083,9 @@
 <stat id="268465734" name="DNT - Damage Reduction while channeling Relentless Maul" key="Itemset_Beorning_RelentlessMaul_DamageReduction" type="ARRAY"/>
 <stat id="268465735" name="DNT - Morale Bubble to nearby allies after channeling Relentless Maul" key="Itemset_Beorning_RelentlessMaul_MoraleBubble" type="ARRAY"/>
 <stat id="268465743" name="DNT - Bladestorm lightning tier up chance" key="Skill_Champion_AppChance_Bladestorm_Lightning_TierUp" isPercentage="true"/>
-<stat id="268465744" name="Inspire Fellows Critical Chance" key="Itemset_Minstrel_InspireFellows_CritChance"/>
-<stat id="268465745" name="Inspire Fellows Induction" key="Minstrel_Skill_InductionDuration_InspireFellows"/>
-<stat id="268465746" name="DNT - Major Ballad Inspire Fellows AppChance" key="Itemset_Minstrel_MinorBallad_Buff_AddedEffects_Override"/>
+<stat id="268465744" name="Inspire Fellows Critical Chance" key="Itemset_Minstrel_InspireFellows_CritChance" isPercentage="true"/>
+<stat id="268465745" name="Inspire Fellows Induction" key="Minstrel_Skill_InductionDuration_InspireFellows" isPercentage="true"/>
+<stat id="268465746" name="DNT - Major Ballad Inspire Fellows AppChance" key="Itemset_Minstrel_MinorBallad_Buff_AddedEffects_Override" isPercentage="true"/>
 <stat id="268465747" name="DNT - All in gives a lesser version of the All in buff" key="Burglar_DoubleDown_Lesser_AllIn_Buff" type="ARRAY"/>
 <stat id="268465748" name="DNT - Triumphant Spirit Delayed Heal and Added Defense" key="Itemset_Minstrel_TriumphantSpirit_Delay" type="ARRAY"/>
 <stat id="268465749" name="DNT - Appchance for applying empowered CoW and CoF propmod" key="Itemset_Minstrel_CoW_CoF_Empower_Appchance"/>
