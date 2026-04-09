@@ -23836,6 +23836,9 @@
 <label key="1879524145" value="DNT - Blight Power"/>
 <label key="1879524153" value="DNT - Offensive Skills CDR"/>
 <label key="1879524155" value="Rapid Fate"/>
+<label key="1879524164" value="Bursting Spores"/>
+<label key="1879524165" value="Bursting Spores"/>
+<label key="1879524166" value="DNT - AOE Damage"/>
 <label key="1879524185" value="Monster Speed Modifier"/>
 <label key="1879524190" value="DNT - Recover Upshot"/>
 <label key="1879524192" value="DNT - Essay of Fire Dispel - specific to essence of flame"/>
@@ -39462,11 +39465,11 @@
 <label key="key:621109831:54354734" value="Agaris beckons your life force leave your body."/>
 <label key="key:621109832:54354734" value=".."/>
 <label key="key:621109838:54354734" value="Protected from the effects of Blood Storm."/>
-<label key="key:621109864:54354734" value="Increases in potency every 20 seconds until the Merrevail Nightsingers are found and defeated!"/>
-<label key="key:621109865:54354734" value="Increases in potency every 20 seconds until the Merrevail Nightsingers are found and defeated!"/>
-<label key="key:621109866:54354734" value="Increases in potency every 20 seconds until the Merrevail Nightsingers are found and defeated!"/>
-<label key="key:621109867:54354734" value="Increases in potency every 20 seconds until the Merrevail Nightsingers are found and defeated!"/>
-<label key="key:621109868:54354734" value="Increases in potency every 20 seconds until the Merrevail Nightsingers are found and defeated!"/>
+<label key="key:621109864:54354734" value="Increases in potency every 25 seconds until the Merrevail Nightsingers are found and defeated!"/>
+<label key="key:621109865:54354734" value="Increases in potency every 25 seconds until the Merrevail Nightsingers are found and defeated!"/>
+<label key="key:621109866:54354734" value="Increases in potency every 25 seconds until the Merrevail Nightsingers are found and defeated!"/>
+<label key="key:621109867:54354734" value="Increases in potency every 25 seconds until the Merrevail Nightsingers are found and defeated!"/>
+<label key="key:621109868:54354734" value="Increases in potency every 25 seconds until the Merrevail Nightsingers are found and defeated!"/>
 <label key="key:621109920:54354734" value="Agaris has consumed your life force, significantly weakening you!"/>
 <label key="key:621109930:54354734" value="An assassin is targetting you!"/>
 <label key="key:621110068:54354734" value=".."/>

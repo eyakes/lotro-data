@@ -45427,7 +45427,7 @@
 <actionTableEntry probability="-1.0" cooldown="30.0" disallowedHints="77">
 <action skillId="1879508982" name="Twist the Knife"/>
 </actionTableEntry>
-<actionTableEntry probability="75.0" cooldown="60.0">
+<actionTableEntry probability="-1.0" cooldown="60.0" disallowedHints="75">
 <action skillId="1879508976" name="Call Stalkers"/>
 </actionTableEntry>
 <actionTableEntry probability="-1.0" cooldown="30.0" disallowedHints="16,17">
@@ -45442,10 +45442,10 @@
 <action skillId="1879508962" name="Fan of Knives - Empowered II"/>
 <action skillId="1879508962" name="Fan of Knives - Empowered II"/>
 </actionTableEntry>
-<actionTableEntry probability="75.0" cooldown="60.0" disallowedHints="77">
+<actionTableEntry probability="-1.0" cooldown="60.0" requiredHints="78">
 <action skillId="1879508988" name="Assassination"/>
 </actionTableEntry>
-<actionTableEntry probability="-1.0" cooldown="120.0" requiredHints="75">
+<actionTableEntry probability="-1.0" cooldown="180.0" requiredHints="75">
 <action skillId="1879508986" name="Nightfall"/>
 </actionTableEntry>
 <actionTableEntry probability="25.0" cooldown="1.0">
@@ -45453,6 +45453,12 @@
 </actionTableEntry>
 <actionTableEntry probability="-1.0" cooldown="30.0" requiredHints="77">
 <action skillId="1879522544" name="Twist the Knife"/>
+</actionTableEntry>
+<actionTableEntry probability="-1.0" cooldown="90.0" requiredHints="75">
+<action skillId="1879508976" name="Call Stalkers"/>
+</actionTableEntry>
+<actionTableEntry probability="-1.0" cooldown="90.0" requiredHints="75">
+<action skillId="1879508988" name="Assassination"/>
 </actionTableEntry>
 </actionTable>
 <actionTable id="1879509026">
