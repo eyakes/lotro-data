@@ -74577,7 +74577,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879335502" name="Swan-knight Rider" category="145" iconId="1092170585" initialName="key:620968379:33816677" sourceDescription="key:620968461:211796645" genus="14" species="27" subSpecies="132" description="key:620968461:228830419">
+<pet identifier="1879335502" name="Swan-knight Rider" category="145" iconId="1092170585" initialName="key:620968379:33816677" sourceDescription="key:620968461:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:620968461:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879335506" name="Swan-knight Rider"/>
@@ -76088,7 +76088,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879338919" name="Stripey Bat" category="145" iconId="1092278298" initialName="key:620971614:33816677" sourceDescription="key:620971595:211796645" genus="14" species="27" subSpecies="132" description="key:620971595:228830419">
+<pet identifier="1879338919" name="Stripey Bat" category="145" iconId="1092278298" initialName="key:620971614:33816677" sourceDescription="key:620971595:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:620971595:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879338911" name="Stripey Bat"/>
@@ -76128,7 +76128,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879338929" name="Tan Bat" category="145" iconId="1092278303" initialName="key:620971612:33816677" sourceDescription="key:620971606:211796645" genus="14" species="27" subSpecies="132" description="key:620971606:228830419">
+<pet identifier="1879338929" name="Tan Bat" category="145" iconId="1092278303" initialName="key:620971612:33816677" sourceDescription="key:620971606:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:620971606:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879338907" name="Tan Bat"/>
@@ -76244,7 +76244,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879339348" name="Black-wing Kite" category="145" iconId="1092240989" initialName="key:620992337:33816677" sourceDescription="key:620992358:211796645" genus="14" species="27" subSpecies="132" description="key:620992358:228830419">
+<pet identifier="1879339348" name="Black-wing Kite" category="145" iconId="1092240989" initialName="key:620992337:33816677" sourceDescription="key:620992358:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:620992358:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879339321" name="Bat Kite"/>
@@ -76298,7 +76298,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879339354" name="Dusk-wing Kite" category="145" iconId="1092240985" initialName="key:620992333:33816677" sourceDescription="key:620992362:211796645" genus="14" species="27" subSpecies="132" description="key:620992362:228830419">
+<pet identifier="1879339354" name="Dusk-wing Kite" category="145" iconId="1092240985" initialName="key:620992333:33816677" sourceDescription="key:620992362:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:620992362:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879339327" name="Orange-moon Bat Kite"/>
@@ -76381,7 +76381,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879341435" name="Winter's Wind" category="145" iconId="1092256819" initialName="key:620994382:33816677" sourceDescription="key:620994397:211796645" genus="14" species="27" subSpecies="132" description="key:620994397:228830419">
+<pet identifier="1879341435" name="Winter's Wind" category="145" iconId="1092256819" initialName="key:620994382:33816677" sourceDescription="key:620994397:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:620994397:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879341439" name="Winter's Wind"/>
@@ -76577,7 +76577,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </mount>
-<pet identifier="1879343919" name="Rohirric Follower" category="145" iconId="1092278306" initialName="key:620968297:33816677" sourceDescription="key:620991586:211796645" genus="14" species="27" subSpecies="132" description="key:620991586:228830419">
+<pet identifier="1879343919" name="Rohirric Follower" category="145" iconId="1092278306" initialName="key:620968297:33816677" sourceDescription="key:620991586:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:620991586:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879335333" name="Summer Kite"/>
@@ -76955,7 +76955,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879351574" name="Noble Eagle Kite" category="145" iconId="1092324179" initialName="key:621000602:33816677" sourceDescription="key:621000601:211796645" genus="14" species="27" subSpecies="132" description="key:621000601:228830419">
+<pet identifier="1879351574" name="Noble Eagle Kite" category="145" iconId="1092324179" initialName="key:621000602:33816677" sourceDescription="key:621000601:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621000601:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879351575" name="Noble Eagle"/>
@@ -76964,7 +76964,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879351577" name="Hopeful Swan Kite" category="145" iconId="1092324180" initialName="key:621000600:33816677" sourceDescription="key:621000606:211796645" genus="14" species="27" subSpecies="132" description="key:621000606:228830419">
+<pet identifier="1879351577" name="Hopeful Swan Kite" category="145" iconId="1092324180" initialName="key:621000600:33816677" sourceDescription="key:621000606:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621000606:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879351583" name="Hopeful Swan"/>
@@ -90512,7 +90512,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879408144" name="Green Firefly" category="145" iconId="1092558142" initialName="key:621034290:33816677" sourceDescription="key:621034346:211796645" genus="14" species="27" subSpecies="132" description="key:621034346:228830419">
+<pet identifier="1879408144" name="Green Firefly" category="145" iconId="1092558142" initialName="key:621034290:33816677" sourceDescription="key:621034346:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621034346:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879408138"/>
@@ -99038,7 +99038,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </mount>
-<pet identifier="1879447366" name="Cream Corgi" category="145" iconId="1092720093" initialName="key:621064633:33816677" sourceDescription="key:621064656:211796645" genus="14" species="27" subSpecies="132" description="key:621064656:228830419">
+<pet identifier="1879447366" name="Cream Corgi" category="145" iconId="1092720093" initialName="key:621064633:33816677" sourceDescription="key:621064656:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621064656:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879447388"/>
@@ -99126,7 +99126,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879447384" name="Library Corgi" category="145" iconId="1092720092" initialName="key:621064622:33816677" sourceDescription="key:621064650:211796645" genus="14" species="27" subSpecies="132" description="key:621064650:228830419">
+<pet identifier="1879447384" name="Library Corgi" category="145" iconId="1092720092" initialName="key:621064622:33816677" sourceDescription="key:621064650:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621064650:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879447386"/>
@@ -108380,7 +108380,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879480616" name="Turquoise Snake" category="145" iconId="1092933466" initialName="key:621088494:33816677" sourceDescription="key:621088522:211796645" genus="14" species="27" subSpecies="132" description="key:621088522:228830419">
+<pet identifier="1879480616" name="Turquoise Snake" category="145" iconId="1092933466" initialName="key:621088494:33816677" sourceDescription="key:621088522:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621088522:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879480629"/>
@@ -108444,7 +108444,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879480631" name="Leafy Green Snake" category="145" iconId="1092933457" initialName="key:621088488:33816677" sourceDescription="key:621088516:211796645" genus="14" species="27" subSpecies="132" description="key:621088516:228830419">
+<pet identifier="1879480631" name="Leafy Green Snake" category="145" iconId="1092933457" initialName="key:621088488:33816677" sourceDescription="key:621088516:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621088516:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879480611"/>
@@ -108460,7 +108460,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879480636" name="Fiery Desert Snake" category="145" iconId="1092933459" initialName="key:621088496:33816677" sourceDescription="key:621088509:211796645" genus="14" species="27" subSpecies="132" description="key:621088509:228830419">
+<pet identifier="1879480636" name="Fiery Desert Snake" category="145" iconId="1092933459" initialName="key:621088496:33816677" sourceDescription="key:621088509:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621088509:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879480613"/>
@@ -112009,7 +112009,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879482554" name="Chestnut Sand Worm" category="145" iconId="1092939482" initialName="key:621090264:33816677" sourceDescription="key:621090253:211796645" genus="14" species="27" subSpecies="132" description="key:621090253:228830419">
+<pet identifier="1879482554" name="Chestnut Sand Worm" category="145" iconId="1092939482" initialName="key:621090264:33816677" sourceDescription="key:621090253:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621090253:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879482561"/>
@@ -113653,7 +113653,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879485338" name="Taupe Hamster" category="145" iconId="1092945409" initialName="key:621092165:33816677" sourceDescription="key:621092177:211796645" genus="14" species="27" subSpecies="132" description="key:621092177:228830419">
+<pet identifier="1879485338" name="Taupe Hamster" category="145" iconId="1092945409" initialName="key:621092165:33816677" sourceDescription="key:621092177:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621092177:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879485309"/>
@@ -116611,7 +116611,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879491061" name="Amethyst Drakeling" category="145" iconId="1092968590" initialName="key:621096962:33816677" sourceDescription="key:621096970:211796645" genus="14" species="27" subSpecies="132" description="key:621096970:228830419">
+<pet identifier="1879491061" name="Amethyst Drakeling" category="145" iconId="1092968590" initialName="key:621096962:33816677" sourceDescription="key:621096970:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621096970:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879491067"/>
@@ -128763,7 +128763,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508535" name="Silver Scorpion" category="145" iconId="1093038655" initialName="key:621108882:33816677" sourceDescription="key:621108893:211796645" genus="14" species="27" subSpecies="132" description="key:621108893:228830419">
+<pet identifier="1879508535" name="Silver Scorpion" category="145" iconId="1093038655" initialName="key:621108882:33816677" sourceDescription="key:621108893:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108893:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508569"/>
@@ -128771,7 +128771,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508537" name="Verdant Grodbog Queen" category="145" iconId="1093038664" initialName="key:621108919:33816677" sourceDescription="key:621108914:211796645" genus="14" species="27" subSpecies="132" description="key:621108914:228830419">
+<pet identifier="1879508537" name="Verdant Grodbog Queen" category="145" iconId="1093038664" initialName="key:621108919:33816677" sourceDescription="key:621108914:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108914:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508640"/>
@@ -128779,7 +128779,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508543" name="Armoured Scorpion" category="145" iconId="1093038646" initialName="key:621108870:33816677" sourceDescription="key:621108937:211796645" genus="14" species="27" subSpecies="132" description="key:621108937:228830419">
+<pet identifier="1879508543" name="Armoured Scorpion" category="145" iconId="1093038646" initialName="key:621108870:33816677" sourceDescription="key:621108937:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108937:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508575"/>
@@ -128803,7 +128803,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508558" name="Terror of the Caverns" category="145" iconId="1093038650" initialName="key:621108939:33816677" sourceDescription="key:621108852:211796645" genus="14" species="27" subSpecies="132" description="key:621108852:228830419">
+<pet identifier="1879508558" name="Terror of the Caverns" category="145" iconId="1093038650" initialName="key:621108939:33816677" sourceDescription="key:621108852:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108852:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508536"/>
@@ -128811,7 +128811,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508561" name="Affable Grodbog Queen" category="145" iconId="1093038642" initialName="key:621108856:33816677" sourceDescription="key:621108948:211796645" genus="14" species="27" subSpecies="132" description="key:621108948:228830419">
+<pet identifier="1879508561" name="Affable Grodbog Queen" category="145" iconId="1093038642" initialName="key:621108856:33816677" sourceDescription="key:621108948:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108948:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508620"/>
@@ -128819,7 +128819,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508563" name="Verdant Deep-claw Whelp" category="145" iconId="1093038665" initialName="key:621108962:33816677" sourceDescription="key:621108898:211796645" genus="14" species="27" subSpecies="132" description="key:621108898:228830419">
+<pet identifier="1879508563" name="Verdant Deep-claw Whelp" category="145" iconId="1093038665" initialName="key:621108962:33816677" sourceDescription="key:621108898:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108898:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508635"/>
@@ -128843,7 +128843,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508572" name="Poisonous Grodbog Protector" category="145" iconId="1093038667" initialName="key:621108941:33816677" sourceDescription="key:621108974:211796645" genus="14" species="27" subSpecies="132" description="key:621108974:228830419">
+<pet identifier="1879508572" name="Poisonous Grodbog Protector" category="145" iconId="1093038667" initialName="key:621108941:33816677" sourceDescription="key:621108974:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108974:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508577"/>
@@ -128883,7 +128883,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508598" name="Aggressive Grodbog Queen" category="145" iconId="1093038668" initialName="key:621108920:33816677" sourceDescription="key:621108933:211796645" genus="14" species="27" subSpecies="132" description="key:621108933:228830419">
+<pet identifier="1879508598" name="Aggressive Grodbog Queen" category="145" iconId="1093038668" initialName="key:621108920:33816677" sourceDescription="key:621108933:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108933:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508592"/>
@@ -128891,7 +128891,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508602" name="Pale Deep-claw Whelp" category="145" iconId="1093038647" initialName="key:621108862:33816677" sourceDescription="key:621108863:211796645" genus="14" species="27" subSpecies="132" description="key:621108863:228830419">
+<pet identifier="1879508602" name="Pale Deep-claw Whelp" category="145" iconId="1093038647" initialName="key:621108862:33816677" sourceDescription="key:621108863:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108863:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508596"/>
@@ -128899,7 +128899,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508603" name="Pitch-dark Scorpion" category="145" iconId="1093038641" initialName="key:621108918:33816677" sourceDescription="key:621108904:211796645" genus="14" species="27" subSpecies="132" description="key:621108904:228830419">
+<pet identifier="1879508603" name="Pitch-dark Scorpion" category="145" iconId="1093038641" initialName="key:621108918:33816677" sourceDescription="key:621108904:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108904:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508644"/>
@@ -128907,7 +128907,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508606" name="Blood Scorpion" category="145" iconId="1093038669" initialName="key:621108970:33816677" sourceDescription="key:621108935:211796645" genus="14" species="27" subSpecies="132" description="key:621108935:228830419">
+<pet identifier="1879508606" name="Blood Scorpion" category="145" iconId="1093038669" initialName="key:621108970:33816677" sourceDescription="key:621108935:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108935:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508614"/>
@@ -128923,7 +128923,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508616" name="Dusky Grodbog Queen" category="145" iconId="1093038666" initialName="key:621108978:33816677" sourceDescription="key:621108905:211796645" genus="14" species="27" subSpecies="132" description="key:621108905:228830419">
+<pet identifier="1879508616" name="Dusky Grodbog Queen" category="145" iconId="1093038666" initialName="key:621108978:33816677" sourceDescription="key:621108905:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108905:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508604"/>
@@ -128931,7 +128931,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508631" name="Pale Scorpion" category="145" iconId="1093038652" initialName="key:621108891:33816677" sourceDescription="key:621108911:211796645" genus="14" species="27" subSpecies="132" description="key:621108911:228830419">
+<pet identifier="1879508631" name="Pale Scorpion" category="145" iconId="1093038652" initialName="key:621108891:33816677" sourceDescription="key:621108911:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108911:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508544"/>
@@ -128955,7 +128955,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508636" name="Dark Grodbog Queen" category="145" iconId="1093038660" initialName="key:621108931:33816677" sourceDescription="key:621108957:211796645" genus="14" species="27" subSpecies="132" description="key:621108957:228830419">
+<pet identifier="1879508636" name="Dark Grodbog Queen" category="145" iconId="1093038660" initialName="key:621108931:33816677" sourceDescription="key:621108957:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108957:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508542"/>
@@ -128963,7 +128963,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508637" name="Striped Grodbog Protector" category="145" iconId="1093038644" initialName="key:621108894:33816677" sourceDescription="key:621108954:211796645" genus="14" species="27" subSpecies="132" description="key:621108954:228830419">
+<pet identifier="1879508637" name="Striped Grodbog Protector" category="145" iconId="1093038644" initialName="key:621108894:33816677" sourceDescription="key:621108954:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108954:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508547"/>
@@ -128971,7 +128971,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508639" name="Bright Grodbog Protector" category="145" iconId="1093038656" initialName="key:621108917:33816677" sourceDescription="key:621108901:211796645" genus="14" species="27" subSpecies="132" description="key:621108901:228830419">
+<pet identifier="1879508639" name="Bright Grodbog Protector" category="145" iconId="1093038656" initialName="key:621108917:33816677" sourceDescription="key:621108901:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108901:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508648"/>
@@ -128987,7 +128987,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879508650" name="Striped Deep-claw Whelp" category="145" iconId="1093038653" initialName="key:621108868:33816677" sourceDescription="key:621108853:211796645" genus="14" species="27" subSpecies="132" description="key:621108853:228830419">
+<pet identifier="1879508650" name="Striped Deep-claw Whelp" category="145" iconId="1093038653" initialName="key:621108868:33816677" sourceDescription="key:621108853:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621108853:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879508532"/>
@@ -133528,7 +133528,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879520634" name="Toffee Mûrai Herding Dog" category="145" iconId="1093065151" initialName="key:621118953:33816677" sourceDescription="key:621118961:211796645" genus="14" species="27" subSpecies="132" description="key:621118961:228830419">
+<pet identifier="1879520634" name="Toffee Mûrai Herding Dog" category="145" iconId="1093065151" initialName="key:621118953:33816677" sourceDescription="key:621118961:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621118961:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879520615"/>
@@ -133536,7 +133536,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879520635" name="Rusty Mûrai Herding Dog" category="145" iconId="1093065152" initialName="key:621118945:33816677" sourceDescription="key:621118956:211796645" genus="14" species="27" subSpecies="132" description="key:621118956:228830419">
+<pet identifier="1879520635" name="Rusty Mûrai Herding Dog" category="145" iconId="1093065152" initialName="key:621118945:33816677" sourceDescription="key:621118956:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621118956:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879520618"/>
@@ -133975,7 +133975,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521249" name="Pale Zizanu" category="145" iconId="1093066657" initialName="key:621119549:33816677" sourceDescription="key:621119607:211796645" genus="14" species="27" subSpecies="132" description="key:621119607:228830419">
+<pet identifier="1879521249" name="Pale Zizanu" category="145" iconId="1093066657" initialName="key:621119549:33816677" sourceDescription="key:621119607:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119607:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521250"/>
@@ -133983,7 +133983,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521253" name="Ruby Worm" category="145" iconId="1093066656" initialName="key:621119530:33816677" sourceDescription="key:621119510:211796645" genus="14" species="27" subSpecies="132" description="key:621119510:228830419">
+<pet identifier="1879521253" name="Ruby Worm" category="145" iconId="1093066656" initialName="key:621119530:33816677" sourceDescription="key:621119510:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119510:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521332"/>
@@ -133999,7 +133999,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521260" name="Raspberry Slime" category="145" iconId="1093066651" initialName="key:621119454:33816677" sourceDescription="key:621119544:211796645" genus="14" species="27" subSpecies="132" description="key:621119544:228830419">
+<pet identifier="1879521260" name="Raspberry Slime" category="145" iconId="1093066651" initialName="key:621119454:33816677" sourceDescription="key:621119544:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119544:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521373"/>
@@ -134031,7 +134031,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521291" name="Desert Slime" category="145" iconId="1093066642" initialName="key:621119477:33816677" sourceDescription="key:621119602:211796645" genus="14" species="27" subSpecies="132" description="key:621119602:228830419">
+<pet identifier="1879521291" name="Desert Slime" category="145" iconId="1093066642" initialName="key:621119477:33816677" sourceDescription="key:621119602:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119602:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521271"/>
@@ -134039,7 +134039,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521298" name="Brown Mûmak Calf" category="145" iconId="1093066659" initialName="key:621119579:33816677" sourceDescription="key:621119558:211796645" genus="14" species="27" subSpecies="132" description="key:621119558:228830419">
+<pet identifier="1879521298" name="Brown Mûmak Calf" category="145" iconId="1093066659" initialName="key:621119579:33816677" sourceDescription="key:621119558:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119558:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521258"/>
@@ -134047,7 +134047,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521299" name="Battle-worn Worm" category="145" iconId="1093066654" initialName="key:621119476:33816677" sourceDescription="key:621119585:211796645" genus="14" species="27" subSpecies="132" description="key:621119585:228830419">
+<pet identifier="1879521299" name="Battle-worn Worm" category="145" iconId="1093066654" initialName="key:621119476:33816677" sourceDescription="key:621119585:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119585:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521245"/>
@@ -134055,7 +134055,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521303" name="Armoured Desert Wasp" category="145" iconId="1093066666" initialName="key:621119596:33816677" sourceDescription="key:621119557:211796645" genus="14" species="27" subSpecies="132" description="key:621119557:228830419">
+<pet identifier="1879521303" name="Armoured Desert Wasp" category="145" iconId="1093066666" initialName="key:621119596:33816677" sourceDescription="key:621119557:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119557:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521385"/>
@@ -134071,7 +134071,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521312" name="Shade-born Zizanu" category="145" iconId="1093066650" initialName="key:621119505:33816677" sourceDescription="key:621119508:211796645" genus="14" species="27" subSpecies="132" description="key:621119508:228830419">
+<pet identifier="1879521312" name="Shade-born Zizanu" category="145" iconId="1093066650" initialName="key:621119505:33816677" sourceDescription="key:621119508:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119508:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521335"/>
@@ -134079,7 +134079,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521317" name="Diligent Mûmak Calf" category="145" iconId="1093066641" initialName="key:621119605:33816677" sourceDescription="key:621119526:211796645" genus="14" species="27" subSpecies="132" description="key:621119526:228830419">
+<pet identifier="1879521317" name="Diligent Mûmak Calf" category="145" iconId="1093066641" initialName="key:621119605:33816677" sourceDescription="key:621119526:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119526:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521323"/>
@@ -134087,7 +134087,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521321" name="Crafty Worm" category="145" iconId="1093066664" initialName="key:621119523:33816677" sourceDescription="key:621119458:211796645" genus="14" species="27" subSpecies="132" description="key:621119458:228830419">
+<pet identifier="1879521321" name="Crafty Worm" category="145" iconId="1093066664" initialName="key:621119523:33816677" sourceDescription="key:621119458:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119458:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521322"/>
@@ -134095,7 +134095,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521334" name="Industrious Mûmak Calf" category="145" iconId="1093066665" initialName="key:621119452:33816677" sourceDescription="key:621119540:211796645" genus="14" species="27" subSpecies="132" description="key:621119540:228830419">
+<pet identifier="1879521334" name="Industrious Mûmak Calf" category="145" iconId="1093066665" initialName="key:621119452:33816677" sourceDescription="key:621119540:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119540:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521329"/>
@@ -134127,7 +134127,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521361" name="Skulking Worm" category="145" iconId="1093066644" initialName="key:621119468:33816677" sourceDescription="key:621119462:211796645" genus="14" species="27" subSpecies="132" description="key:621119462:228830419">
+<pet identifier="1879521361" name="Skulking Worm" category="145" iconId="1093066644" initialName="key:621119468:33816677" sourceDescription="key:621119462:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119462:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521371"/>
@@ -134135,7 +134135,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521362" name="Sun-laden Mûmak Calf" category="145" iconId="1093066647" initialName="key:621119535:33816677" sourceDescription="key:621119601:211796645" genus="14" species="27" subSpecies="132" description="key:621119601:228830419">
+<pet identifier="1879521362" name="Sun-laden Mûmak Calf" category="145" iconId="1093066647" initialName="key:621119535:33816677" sourceDescription="key:621119601:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119601:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521367"/>
@@ -134143,7 +134143,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521363" name="Marble Mûmak Calf" category="145" iconId="1093066662" initialName="key:621119551:33816677" sourceDescription="key:621119528:211796645" genus="14" species="27" subSpecies="132" description="key:621119528:228830419">
+<pet identifier="1879521363" name="Marble Mûmak Calf" category="145" iconId="1093066662" initialName="key:621119551:33816677" sourceDescription="key:621119528:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119528:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521305"/>
@@ -134151,7 +134151,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521369" name="Sea-borne Slime" category="145" iconId="1093066648" initialName="key:621119495:33816677" sourceDescription="key:621119461:211796645" genus="14" species="27" subSpecies="132" description="key:621119461:228830419">
+<pet identifier="1879521369" name="Sea-borne Slime" category="145" iconId="1093066648" initialName="key:621119495:33816677" sourceDescription="key:621119461:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119461:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521381"/>
@@ -134159,7 +134159,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521378" name="Night-born Slime" category="145" iconId="1093066640" initialName="key:621119594:33816677" sourceDescription="key:621119504:211796645" genus="14" species="27" subSpecies="132" description="key:621119504:228830419">
+<pet identifier="1879521378" name="Night-born Slime" category="145" iconId="1093066640" initialName="key:621119594:33816677" sourceDescription="key:621119504:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119504:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521275"/>
@@ -134167,7 +134167,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521379" name="Twilight Mûmak Calf" category="145" iconId="1093066637" initialName="key:621119470:33816677" sourceDescription="key:621119453:211796645" genus="14" species="27" subSpecies="132" description="key:621119453:228830419">
+<pet identifier="1879521379" name="Twilight Mûmak Calf" category="145" iconId="1093066637" initialName="key:621119470:33816677" sourceDescription="key:621119453:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119453:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521316"/>
@@ -134175,7 +134175,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521383" name="Copper Zizanu" category="145" iconId="1093066663" initialName="key:621119546:33816677" sourceDescription="key:621119610:211796645" genus="14" species="27" subSpecies="132" description="key:621119610:228830419">
+<pet identifier="1879521383" name="Copper Zizanu" category="145" iconId="1093066663" initialName="key:621119546:33816677" sourceDescription="key:621119610:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119610:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521310"/>
@@ -134183,7 +134183,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521386" name="Burdened Mûmak Calf" category="145" iconId="1093066639" initialName="key:621119604:33816677" sourceDescription="key:621119527:211796645" genus="14" species="27" subSpecies="132" description="key:621119527:228830419">
+<pet identifier="1879521386" name="Burdened Mûmak Calf" category="145" iconId="1093066639" initialName="key:621119604:33816677" sourceDescription="key:621119527:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119527:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521318"/>
@@ -134191,7 +134191,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521388" name="Rust Slime" category="145" iconId="1093066649" initialName="key:621119487:33816677" sourceDescription="key:621119525:211796645" genus="14" species="27" subSpecies="132" description="key:621119525:228830419">
+<pet identifier="1879521388" name="Rust Slime" category="145" iconId="1093066649" initialName="key:621119487:33816677" sourceDescription="key:621119525:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119525:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521273"/>
@@ -134199,7 +134199,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521392" name="Emerald Slime" category="145" iconId="1093066646" initialName="key:621119588:33816677" sourceDescription="key:621119606:211796645" genus="14" species="27" subSpecies="132" description="key:621119606:228830419">
+<pet identifier="1879521392" name="Emerald Slime" category="145" iconId="1093066646" initialName="key:621119588:33816677" sourceDescription="key:621119606:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119606:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521394"/>
@@ -134207,7 +134207,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521393" name="Stone Mûmak Calf" category="145" iconId="1093066658" initialName="key:621119467:33816677" sourceDescription="key:621119575:211796645" genus="14" species="27" subSpecies="132" description="key:621119575:228830419">
+<pet identifier="1879521393" name="Stone Mûmak Calf" category="145" iconId="1093066658" initialName="key:621119467:33816677" sourceDescription="key:621119575:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119575:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521331"/>
@@ -134215,7 +134215,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879521398" name="Marsh Crocodile Hatchling" category="145" iconId="1093066638" initialName="key:621119591:33816677" sourceDescription="key:621119465:211796645" genus="14" species="27" subSpecies="132" description="key:621119465:228830419">
+<pet identifier="1879521398" name="Marsh Crocodile Hatchling" category="145" iconId="1093066638" initialName="key:621119591:33816677" sourceDescription="key:621119465:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621119465:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879521288"/>
@@ -140307,7 +140307,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529505" name="Mottled Mirkwood Stag" category="145" iconId="1093149891" initialName="key:621059677:33816677" sourceDescription="key:621126308:211796645" genus="14" species="27" subSpecies="132" description="key:621126308:228830419">
+<pet identifier="1879529505" name="Mottled Mirkwood Stag" category="145" iconId="1093149891" initialName="key:621059677:33816677" sourceDescription="key:621126308:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126308:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879440102"/>
@@ -140323,7 +140323,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529509" name="Spring Copse Stag" category="145" iconId="1093149893" initialName="key:621059669:33816677" sourceDescription="key:621126283:211796645" genus="14" species="27" subSpecies="132" description="key:621126283:228830419">
+<pet identifier="1879529509" name="Spring Copse Stag" category="145" iconId="1093149893" initialName="key:621059669:33816677" sourceDescription="key:621126283:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126283:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879440100"/>
@@ -140331,7 +140331,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529511" name="Mottled Mirkwood Fawn" category="145" iconId="1093149901" initialName="key:621059675:33816677" sourceDescription="key:621126309:211796645" genus="14" species="27" subSpecies="132" description="key:621126309:228830419">
+<pet identifier="1879529511" name="Mottled Mirkwood Fawn" category="145" iconId="1093149901" initialName="key:621059675:33816677" sourceDescription="key:621126309:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126309:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879440106"/>
@@ -140339,7 +140339,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529517" name="Regal Grove Doe" category="145" iconId="1093149900" initialName="key:621126291:33816677" sourceDescription="key:621126287:211796645" genus="14" species="27" subSpecies="132" description="key:621126287:228830419">
+<pet identifier="1879529517" name="Regal Grove Doe" category="145" iconId="1093149900" initialName="key:621126291:33816677" sourceDescription="key:621126287:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126287:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879529503"/>
@@ -140347,7 +140347,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529519" name="White-necked Doe" category="145" iconId="1093149895" initialName="key:621126276:33816677" sourceDescription="key:621126290:211796645" genus="14" species="27" subSpecies="132" description="key:621126290:228830419">
+<pet identifier="1879529519" name="White-necked Doe" category="145" iconId="1093149895" initialName="key:621126276:33816677" sourceDescription="key:621126290:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126290:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879529529"/>
@@ -140355,7 +140355,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529522" name="White-necked Fawn" category="145" iconId="1093149897" initialName="key:621059679:33816677" sourceDescription="key:621126299:211796645" genus="14" species="27" subSpecies="132" description="key:621126299:228830419">
+<pet identifier="1879529522" name="White-necked Fawn" category="145" iconId="1093149897" initialName="key:621059679:33816677" sourceDescription="key:621126299:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126299:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879440101"/>
@@ -140363,7 +140363,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529523" name="Mottled Mirkwood Doe" category="145" iconId="1093149890" initialName="key:621126288:33816677" sourceDescription="key:621126302:211796645" genus="14" species="27" subSpecies="132" description="key:621126302:228830419">
+<pet identifier="1879529523" name="Mottled Mirkwood Doe" category="145" iconId="1093149890" initialName="key:621126288:33816677" sourceDescription="key:621126302:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126302:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879529513"/>
@@ -140379,7 +140379,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529526" name="Regal Grove Stag" category="145" iconId="1093149899" initialName="key:621059678:33816677" sourceDescription="key:621126295:211796645" genus="14" species="27" subSpecies="132" description="key:621126295:228830419">
+<pet identifier="1879529526" name="Regal Grove Stag" category="145" iconId="1093149899" initialName="key:621059678:33816677" sourceDescription="key:621126295:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126295:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879440103"/>
@@ -140387,7 +140387,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529532" name="Regal Grove Fawn" category="145" iconId="1093149902" initialName="key:621059674:33816677" sourceDescription="key:621126279:211796645" genus="14" species="27" subSpecies="132" description="key:621126279:228830419">
+<pet identifier="1879529532" name="Regal Grove Fawn" category="145" iconId="1093149902" initialName="key:621059674:33816677" sourceDescription="key:621126279:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126279:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879440107"/>
@@ -140395,7 +140395,7 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </pet>
-<pet identifier="1879529533" name="White-necked Stag" category="145" iconId="1093149898" initialName="key:621059672:33816677" sourceDescription="key:621126282:211796645" genus="14" species="27" subSpecies="132" description="key:621126282:228830419">
+<pet identifier="1879529533" name="White-necked Stag" category="145" iconId="1093149898" initialName="key:621059672:33816677" sourceDescription="key:621126282:211796645" hidden="true" genus="14" species="27" subSpecies="132" description="key:621126282:228830419">
 <details actionDurationContribution="2.0" cooldown="3.0" flags="32">
 <effectsMgr type="TOGGLE">
 <effect id="1879440110"/>
