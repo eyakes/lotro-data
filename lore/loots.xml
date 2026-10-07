@@ -203126,7 +203126,6 @@
 <trophyListEntry dropFrequency="1.0" itemId="1879512498" name="Valar Level Boost - 160"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879414732" name="Virtues of the Valar - Tutorial Quest"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879512553" name="Valar Virtue Token Coffer - Level 160"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879245838" name="War-steed"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879188629" name="Trait: Riding"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879512494" name="Valar Weapon Pack - 160"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879512550" name="Valar Armour Pack - 160"/>
@@ -203155,8 +203154,8 @@
 <trophyListEntry dropFrequency="1.0" itemId="1879257372" name="Dale-men's Cram" quantity="25"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879248609" name="Rejuvenation Potion" quantity="25"/>
 <trophyListEntry dropFrequency="1.0" treasureGroupProfileId="1879289391"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879481329" name="Luxurious Seasoned Fish Platter" quantity="10"/>
-<trophyListEntry dropFrequency="1.0" itemId="1879477011" name="Rationed Seasoned Fish Platter" quantity="10"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879512392" name="Luxurious Fish and Veggie Plate" quantity="10"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879512404" name="Rationed Fish and Veggie Plate" quantity="10"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879257276" name="Universal Toolkit"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879269346" name="Huge Pile of Gold Scraps" quantity="5"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879397779" name="Map to Dale - Dale-lands"/>
@@ -208397,6 +208396,25 @@
 <trophyListEntry dropFrequency="1.0" itemId="1879430426" name="Chunk of Gundabad Skarn" quantity="50"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879471629" name="Chunk of Shagâni Iron" quantity="50"/>
 <trophyListEntry dropFrequency="1.0" itemId="1879509969" name="Chunk of Mûrai Iron Ore" quantity="50"/>
+</trophyList>
+<trophyList id="1879536639">
+<trophyListEntry dropFrequency="1.0" itemId="1879536594" name="Cloak of the Midnight Raven"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879536597" name="Boots of the Midnight Raven"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879536593" name="Hood of the Midnight Raven"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879536596" name="Scarf of the Midnight Raven"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879536595" name="Robe of the Midnight Raven"/>
+</trophyList>
+<trophyList id="1879536641">
+<trophyListEntry dropFrequency="1.0" itemId="1879536636" name="Accessory of the Midnight Raven"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879536638" name="Caparison of the Midnight Raven"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879536635" name="Head-piece of the Midnight Raven"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879536637" name="Leg-guards of the Midnight Raven"/>
+</trophyList>
+<trophyList id="1879537179">
+<trophyListEntry dropFrequency="1.0" itemId="1879537175" name="Level-up 160"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879512494" name="Valar Weapon Pack - 160"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879512550" name="Valar Armour Pack - 160"/>
+<trophyListEntry dropFrequency="1.0" itemId="1879188629" name="Trait: Riding"/>
 </trophyList>
 <weightedTreasureTable id="1879227183">
 <weightedTreasureTableEntry weight="300" trophyListId="1879253217"/>

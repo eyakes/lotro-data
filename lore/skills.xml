@@ -140577,4 +140577,32 @@
 <attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
 </details>
 </mount>
+<pet identifier="1879536605" name="Midnight Raven" category="145" iconId="1093178485" initialName="key:621131921:33816677" sourceDescription="key:621131924:211796645" genus="14" species="27" subSpecies="132" description="key:621131924:228830419">
+<details actionDurationContribution="2.0" cooldown="3.0" flags="32">
+<effectsMgr type="TOGGLE">
+<effect id="1879536604"/>
+</effectsMgr>
+<attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
+</details>
+</pet>
+<mount identifier="1879536628" name="Steed of the Midnight Raven" category="88" iconId="1093178486" initialName="key:621131946:138936629" mountCategory="4" mountType="1" sourceDescription="key:620995772:258175260" morale="200" speed="0.62" peerId="1879536629">
+<requiredTrait id="1879051500" name="Riding"/>
+<requiredEffect id="1879051501" name="Basic Riding"/>
+<details actionDurationContribution="3.5" inductionId="1879089214" flags="32">
+<effectsMgr type="TOGGLE">
+<effect id="1879536626" name="Mounted"/>
+</effectsMgr>
+<attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
+</details>
+</mount>
+<mount identifier="1879536629" name="Steed of the Midnight Raven" category="88" iconId="1093178486" initialName="key:621131947:138936629" mountCategory="4" mountType="1" sourceDescription="key:620995772:258175260" morale="200" speed="0.62" tall="true" peerId="1879536628">
+<requiredTrait id="1879051500" name="Riding"/>
+<requiredEffect id="1879051501" name="Basic Riding"/>
+<details actionDurationContribution="3.5" inductionId="1879089214" flags="32">
+<effectsMgr type="TOGGLE">
+<effect id="1879536627" name="Mounted"/>
+</effectsMgr>
+<attack damageContributionMultiplier="0.0" implementContributionMultiplier="0.0"/>
+</details>
+</mount>
 </skills>

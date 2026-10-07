@@ -13239,6 +13239,9 @@
 <label key="1879533983" value="Corcel del cazador de hombres lobo"/>
 <label key="1879533985" value="Corcel del comandante intrépido"/>
 <label key="1879533986" value="Corcel del cazador de hombres lobo"/>
+<label key="1879536605" value="Midnight Raven"/>
+<label key="1879536628" value="Steed of the Midnight Raven"/>
+<label key="1879536629" value="Steed of the Midnight Raven"/>
 <label key="key:620759186:228830419" value="Tras usar Golpe de doble filo, realiza un par de ataques poderosos contra tus enemigos.&#10;&#10;&lt;rgb=#FFFF00&gt;Se requieren dos armas.&lt;/rgb&gt;"/>
 <label key="key:620759211:228830419" value="Después de usar Golpe de Doble Filo, golpea la garganta de tu oponente."/>
 <label key="key:620759243:228830419" value="Sacude la tierra como si un Ent golpeara con su pie, causando gran daño a varios enemigos.&#10;&#10;Si tu objetivo ha sido sacudido recientemente por Tierra agrietada, esta habilidad inflige daño adicional."/>
@@ -19579,4 +19582,9 @@
 <label key="key:621129985:138936629" value="Eclipse"/>
 <label key="key:621129986:138936629" value="Trailblazer"/>
 <label key="key:621129987:138936629" value="Trailblazer"/>
+<label key="key:621131921:33816677" value="Edgar"/>
+<label key="key:621131924:211796645" value="Available through barter during the Fall Festival."/>
+<label key="key:621131924:228830419" value="Summons a raven to join you at your hearth or travel the world with you."/>
+<label key="key:621131946:138936629" value="Poe"/>
+<label key="key:621131947:138936629" value="Poe"/>
 </labels>

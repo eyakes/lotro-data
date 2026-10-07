@@ -397,7 +397,7 @@
 <label key="1879064294" value="Schildspott"/>
 <label key="1879064295" value="Stampfen"/>
 <label key="1879064296" value="Spieß umdrehen"/>
-<label key="1879064297" value="Versprechen des Wächters"/>
+<label key="1879064297" value="Guardian's Promise"/>
 <label key="1879064327" value="Zu Fall bringen"/>
 <label key="1879064328" value="Überraschungs-&#10;schlag"/>
 <label key="1879064329" value="Täuschender Angriff"/>
@@ -2906,7 +2906,7 @@
 <label key="1879176352" value="Tod heute nicht unterliegen"/>
 <label key="1879176356" value="Schurken-Gegengift"/>
 <label key="1879176369" value="Erbarmungsloser Schlag"/>
-<label key="1879176371" value="Erbarmungs-&#10;loser Schlag"/>
+<label key="1879176371" value="Erbarmungsloser Schlag"/>
 <label key="1879176374" value="Tugendhafter Ansturm"/>
 <label key="1879176393" value="Rückzug aus dem Kampf"/>
 <label key="1879179111" value="Zerreißen"/>
@@ -6882,7 +6882,7 @@
 <label key="1879354419" value="Hobbit-Verstand"/>
 <label key="1879354909" value="Zurück zum Udûn-Brückenkopf"/>
 <label key="1879354910" value="Führer zum Udûn-Brückenkopf"/>
-<label key="1879354911" value="Appell am Udûn-Brückenkopf"/>
+<label key="1879354911" value="Appell im Udûn-Brückenkopf"/>
 <label key="1879357634" value="Reise zum Hof von Lothlórien"/>
 <label key="1879357635" value="Reise zur Halle des Königs"/>
 <label key="1879357636" value="Reise zur Halle unter dem Berg"/>
@@ -7626,7 +7626,7 @@
 <label key="1879387353" value="Signalfeuer wird platziert ..."/>
 <label key="1879387354" value="Signalfeuer wird platziert ..."/>
 <label key="1879387355" value="Signalfeuer wird platziert ..."/>
-<label key="1879387602" value="Überraschungsschlag des Glücksritters"/>
+<label key="1879387602" value="Überraschungsschlag des Spielers"/>
 <label key="1879387658" value="Grüner Glühwurm"/>
 <label key="1879387659" value="Oranger Glühwurm"/>
 <label key="1879387698" value="Unfassbare Kälte"/>
@@ -7911,7 +7911,7 @@
 <label key="1879396852" value="Führer nach Estolad Lân"/>
 <label key="1879396856" value="Zurück nach Estolad Lân"/>
 <label key="1879396918" value="Schwarzer Wolfshund"/>
-<label key="1879396922" value="Schwarzer marmorierter Wolfshund"/>
+<label key="1879396922" value="Schwarzer Marmor Wolfshund"/>
 <label key="1879396924" value="Hellbrauner Wolfshund"/>
 <label key="1879396925" value="Weißer Wolfshund"/>
 <label key="1879396932" value="Brauner Wolfshund"/>
@@ -10151,7 +10151,7 @@
 <label key="1879481433" value="Wirbelnder Schlag"/>
 <label key="1879481434" value="Unverwüstlicher Verbündeter"/>
 <label key="1879481437" value="Verschwinden"/>
-<label key="1879481438" value="Rasende Hiebe"/>
+<label key="1879481438" value="Wütende Hiebe"/>
 <label key="1879481439" value="Sprint"/>
 <label key="1879481440" value="Kampfschrei"/>
 <label key="1879481442" value="Agile Vorbereitung"/>
@@ -10165,7 +10165,7 @@
 <label key="1879481453" value="Zerstecher"/>
 <label key="1879481455" value="Vergiftetes Eis"/>
 <label key="1879481460" value="Schneller Schlag"/>
-<label key="1879481461" value="Rasende Hiebe"/>
+<label key="1879481461" value="Wütende Hiebe"/>
 <label key="1879481462" value="Wort des Frostes"/>
 <label key="1879481468" value="Beschwört Schatten"/>
 <label key="1879481469" value="Wort des Frostes 2"/>
@@ -10293,7 +10293,7 @@
 <label key="1879482078" value="Möglichkeit ausnutzen"/>
 <label key="1879482079" value="Hagel von Schlägen"/>
 <label key="1879482080" value="Schneller Bogen"/>
-<label key="1879482081" value="Rasende Hiebe"/>
+<label key="1879482081" value="Wütende Hiebe"/>
 <label key="1879482082" value="Niedriger Schnitt"/>
 <label key="1879482084" value="Erschütternder Streich"/>
 <label key="1879482086" value="Schattenangriff"/>
@@ -10312,7 +10312,7 @@
 <label key="1879482101" value="Horn der Waffenmeister"/>
 <label key="1879482102" value="Verderbtes Blut"/>
 <label key="1879482105" value="ein schwungvoller Nahkampfangriff"/>
-<label key="1879482106" value="Zerfurchter Schnitt"/>
+<label key="1879482106" value="Abgewetzter Schnitt"/>
 <label key="1879482107" value="Stärkende Verteidigung"/>
 <label key="1879482108" value="Wirbelnde Vergeltung"/>
 <label key="1879482109" value="Folgen"/>
@@ -10360,7 +10360,7 @@
 <label key="1879482153" value="Festnagelnder Schuss"/>
 <label key="1879482154" value="Raserei"/>
 <label key="1879482155" value="Todbringer, Hinrichten"/>
-<label key="1879482156" value="Rasende Hiebe"/>
+<label key="1879482156" value="Wütende Hiebe"/>
 <label key="1879482159" value="Gruppenjäger"/>
 <label key="1879482160" value="Sperrfeuer"/>
 <label key="1879482161" value="Auslöschen"/>
@@ -10421,7 +10421,7 @@
 <label key="1879482220" value="Tosen der Menge"/>
 <label key="1879482221" value="Rotes Glücksspiel"/>
 <label key="1879482222" value="Beeilung"/>
-<label key="1879482223" value="Rasende Hiebe"/>
+<label key="1879482223" value="Wütende Hiebe"/>
 <label key="1879482224" value="Schriller Schrei"/>
 <label key="1879482225" value="Herkommen!"/>
 <label key="1879482227" value="Horn der Waffenmeister"/>
@@ -11375,7 +11375,7 @@
 <label key="1879497835" value="Hoffnung vernichten"/>
 <label key="1879497836" value="Explosion der Leere - Verteilt"/>
 <label key="1879497837" value="Knochen zerschmettern"/>
-<label key="1879497838" value="Entzündlicher Gruff"/>
+<label key="1879497838" value="Entzündlicher Griff"/>
 <label key="1879497839" value="Bis ins Mark"/>
 <label key="1879497840" value="Gabe der Seuche"/>
 <label key="1879497841" value="Die Hoffnungslosen vernichten"/>
@@ -13239,6 +13239,9 @@
 <label key="1879533983" value="Ross des Werwolfsjägers"/>
 <label key="1879533985" value="Ross des unerschrockenen Kommandeurs"/>
 <label key="1879533986" value="Ross des Werwolfsjägers"/>
+<label key="1879536605" value="Mitternachtsrabe"/>
+<label key="1879536628" value="Ross des Mitternachtsraben"/>
+<label key="1879536629" value="Ross des Mitternachtsraben"/>
 <label key="key:620759186:228830419" value="Führt, nachdem Ihr \qZweischneidiger Schlag\q eingesetzt habt, zwei mächtige Angriffe gegen Eure Gegner durch.&#10;&#10;&lt;rgb=#FFFF00&gt;Zwei einhändige Waffen erforderlich.&lt;/rgb&gt;"/>
 <label key="key:620759211:228830419" value="Wenn Ihr \qZweischneidiger Schlag\q verwendet, schlagt Ihr nach dem Hals Eures Gegners."/>
 <label key="key:620759243:228830419" value="Lässt die Erde beben, als hätte ein Ent mit dem Fuß aufgestampft, wodurch mehrere Gegner großen Schaden erleiden.&#10;&#10;Wenn Euer Ziel kürzlich von \qRissige Erde\q erschüttert wurde, verursacht diese Fertigkeit Bonusschaden."/>
@@ -13311,7 +13314,7 @@
 <label key="key:620765875:228830419" value="Hymne: Erhöht Fernkampf-Schaden und taktischen Schaden aller Mitglieder der Gefährtengruppe oder des Schlachtzugs in der Nähe.&#10;&#10;&lt;rgb=#00FFDD&gt;Es müssen zwei Balladen-Stärkungen auf den Barden wirken.&lt;/rgb&gt;"/>
 <label key="key:620765879:228830419" value="Ein Lied erklingt, wodurch Ihr Eure Gegner mit einen Licht-Angriff mit Bereichswirkung attackiert. Dieser Angriff entfernt auch Verderbtheits-Stärkungen von Euch getroffenen Gegnern."/>
 <label key="key:620765884:228830419" value="Helft Eurer Gefährtengruppe. Wendet eine kurze, starke Heilung auf Eure Gefährten an und lenkt einigen erlittenen Schaden zurück auf die Angreifer."/>
-<label key="key:620765885:228830419" value="Inspiriert Gefährten zu Heldentaten und hat eine längere Dauer und kürzere Erholungszeit.&#10;&#10;Schurke: Erhält eine kritische Erwiderung.&#10;&#10;Hauptmann: Erhält eine Niederlagen-Erwiderung.&#10;&#10;Waffenmeister: Erhält eine Niederlagen-Erwiderung.&#10;&#10;Wächter: Erhält eine Blocken-Erwiderung und eine Parier-Erwiderung.&#10;&#10;Jäger: Erhält eine Parier-Erwiderung.&#10;&#10;Kundiger: Verringerte Abklingzeit und Moralkosten für „Signalfeuer der Hoffnung“.&#10;&#10;Barde: Schaltet „Ermutigung“ kostenlos und „Ruf der Dissonanz“ frei.&#10;&#10;Runenbewahrer: Verringerte Abklingzeit für „Funke des Schreibers“ und „Präludium der Hoffnung“.&#10;&#10;Hüter: Verringerte Abklingzeit für „Schild-Durchbohrer“."/>
+<label key="key:620765885:228830419" value="Inspiriert Gefährten zu Heldentaten und hat eine längere Dauer und kürzere Erholungszeit.&#10;&#10;Schurke: Erhält eine kritische Erwiderung.&#10;&#10;Hauptmann: Erhält eine Niederlagen-Replik.&#10;&#10;Waffenmeister: Erhält eine Niederlagen-Replik.&#10;&#10;Wächter: Erhält eine Blocken-Erwiderung und eine Parier-Erwiderung.&#10;&#10;Jäger: Erhält eine Parier-Erwiderung.&#10;&#10;Kundiger: Verringerte Abklingzeit und Moralkosten für „Signalfeuer der Hoffnung“.&#10;&#10;Barde: Schaltet „Ermutigung“ kostenlos und „Ruf der Dissonanz“ frei.&#10;&#10;Runenbewahrer: Verringerte Abklingzeit für „Funke des Schreibers“ und „Präludium der Hoffnung“.&#10;&#10;Hüter: Verringerte Abklingzeit für „Schild-Durchbohrer“."/>
 <label key="key:620765911:228830419" value="Stärkt Euren taktischen Schaden und schädigt Euren Gegner.&#10;&#10;Balladen schalten Hymnen und Codas frei."/>
 <label key="key:620765915:228830419" value="Belebt einen gefallenen Verbündeten wieder."/>
 <label key="key:620765920:228830419" value="Diese Fertigkeit gewährt Euch drei Bonuseffekte für Balladenkraft und gewährt Euch Zugriff auf Hymnen und Codas. Außerdem werden sämtliche Stille-Effekte neutralisiert."/>
@@ -14326,7 +14329,7 @@
 <label key="key:620865530:138936629" value="Eisig"/>
 <label key="key:620865534:138936629" value="Saphir"/>
 <label key="key:620865537:138936629" value="Mitternacht"/>
-<label key="key:620865542:138936629" value="Harmonie"/>
+<label key="key:620865542:138936629" value="Harmony"/>
 <label key="key:620865546:138936629" value="Eisfall"/>
 <label key="key:620865547:138936629" value="Stolz des Jägers"/>
 <label key="key:620865549:138936629" value="Unheil"/>
@@ -14389,7 +14392,7 @@
 <label key="key:620871607:138936629" value="Kupferschweif"/>
 <label key="key:620871608:138936629" value="Sommersprosse"/>
 <label key="key:620871610:138936629" value="Eisig"/>
-<label key="key:620871611:138936629" value="Harmonie"/>
+<label key="key:620871611:138936629" value="Harmony"/>
 <label key="key:620871612:138936629" value="Jade"/>
 <label key="key:620871613:138936629" value="Nesselblatt"/>
 <label key="key:620871615:138936629" value="Heiterkeit"/>
@@ -14497,7 +14500,7 @@
 <label key="key:620874564:228830419" value="Soldaten von Minas Ithil tragen Bündel mit Athelas bei sich, um während des Kampfes Heilung erteilen zu können. Kann bei sich selbst oder bei Verbündeten verwendet werden."/>
 <label key="key:620874647:228830419" value="Ein starker Schwerthieb gegen einen einzelnen Feind."/>
 <label key="key:620876512:228830419" value="Vermeidet für kurze Zeit (nicht tödliche) Fallverletzungen.&#10;&#10;Der Einsatz dieser Fertigkeit beendet das Schleichen."/>
-<label key="key:620877170:228830419" value="Hymne: Erhöht Euren Schaden durch Schrei und Ruf massiv.&#10;&#10;Erhöht Licht-, Feuer-, Frost- und Blitzschaden aller Mitglieder der Gefährtengruppe oder des Schlachtzugs in der Nähe.&#10;&#10;&lt;rgb=#00FFDD&gt;Es müssen drei Balladen-Stärkungen auf den Barden wirken.&lt;/rgb&gt;"/>
+<label key="key:620877170:228830419" value="Hymne: Erhöht Euren Schaden durch Schrei und Ruf massiv.&#10;&#10;Erhöht Licht-, Feuer-, Frost- und Blitzschaden aller Mitglieder der Gefährtengruppe oder des Schlachtzugs in der Nähe.&#10;&#10;&lt;rgb=#00FFDD&gt;Es müssen eins Balladen-Stärkungen auf den Barden wirken.&lt;/rgb&gt;"/>
 <label key="key:620877171:228830419" value="Hymne: Erhöht Eure Heilung auf andere und verringert die Anwendungsverzögerungszeit Eurer Heilfertigkeiten. Erhöht die Heilung auf andere und verringert die Anwendungsverzögerungszeit für alle Mitglieder der Gefährtengruppe oder des Schlachtzugs.&#10;&#10;&lt;rgb=#00FFDD&gt;Es müssen eins Balladen-Stärkungen auf den Barden wirken.&lt;/rgb&gt;"/>
 <label key="key:620877791:138936629" value="Tau"/>
 <label key="key:620877792:138936629" value="Bach"/>
@@ -15524,9 +15527,9 @@
 <label key="key:620914532:228830419" value="Die Bande des Kundigen sind stark. Mit ihnen können Verbündete von dem vertieften Wissen über die Natur und ihre Kreaturen profitieren."/>
 <label key="key:620914533:228830419" value="Ihr benutzt eine Linse, um das Licht der Sonne abzulenken und damit einen Reiter und sein Reittier zu blenden. Dabei kann das Reittier so verstört werden, dass es seinen Reiter abwirft. Das flimmernde Licht lockt einen Schwarm Krähen herbei, der die Bewegung des Ziels verlangsamt wenn der Blend-Effekt nicht mehr auf das Ziel wirkt.&#10;&#10;&lt;rgb=#ff6600&gt;Diese Fertigkeit kann nicht auf ein Ziel angewendet werden, das bereits unter dem Verlangsamungseffekt von „Ein Schwarm Krähen“ steht, verursacht durch „Strahlender Ausbruch“.&lt;/rgb&gt;"/>
 <label key="key:620914534:228830419" value="Ihr benutzt eine Linse, um das Licht der Sonne abzulenken und damit einen Reiter und sein Reittier zu blenden. Dabei kann das Reittier so verstört werden, dass es seinen Reiter abwirft. Das flimmernde Licht lockt einen Schwarm Krähen herbei, der die Bewegung des Ziels verlangsamt wenn der Blend-Effekt nicht mehr auf das Ziel wirkt.&#10;&#10;&lt;rgb=#ff6600&gt;Diese Fertigkeit kann nicht auf ein Ziel angewendet werden, das bereits unter dem Verlangsamungseffekt von „Ein Schwarm Krähen“ steht, verursacht durch „Strahlender Ausbruch“.&lt;/rgb&gt;"/>
-<label key="key:620914535:228830419" value="Ein Schurke führt nicht immer nur Tricks aus. Manchmal ist es auch Zeit, sich selbst etwas Gutes zu tun.&#10;&#10;Diese Fertigkeit gewährt Euch und Euren Verbündeten eine vorübergehende Stärkung."/>
+<label key="key:620914535:228830419" value="Ein Schurke führt nicht immer nur Tricks aus. Manchmal ist es auch an der Zeit, sich selbst etwas Gutes zu tun.&#10;&#10;Diese Fertigkeit gewährt Euch und Euren Verbündeten eine vorübergehende Stärkung."/>
 <label key="key:620914536:228830419" value="Ein Schurke führt nicht immer nur Tricks aus. Manchmal ist es auch an der Zeit, sich selbst etwas Gutes zu tun.&#10;&#10;Diese Fertigkeit gewährt Euch und Euren Verbündeten eine vorübergehende Stärkung."/>
-<label key="key:620914537:228830419" value="Ein Schurke führt nicht immer nur Tricks aus. Manchmal ist es auch Zeit, sich selbst etwas Gutes zu tun.&#10;&#10;Diese Fertigkeit gewährt Euch und Euren Verbündeten eine vorübergehende Stärkung."/>
+<label key="key:620914537:228830419" value="Ein Schurke führt nicht immer nur Tricks aus. Manchmal ist es auch an der Zeit, sich selbst etwas Gutes zu tun.&#10;&#10;Diese Fertigkeit gewährt Euch und Euren Verbündeten eine vorübergehende Stärkung."/>
 <label key="key:620914538:228830419" value="Die Bande des Kundigen sind stark. Mit ihnen können Verbündete von dem vertieften Wissen über die Natur und ihre Kreaturen profitieren."/>
 <label key="key:620914539:228830419" value="Die Bande des Kundigen sind stark. Mit ihnen können Verbündete von dem vertieften Wissen über die Natur und ihre Kreaturen profitieren."/>
 <label key="key:620914638:228830419" value="Der Barde erzählt die Geschichte von Eorl und den Éothéod, die Gondor bei der Schlacht auf dem Feld von Celebrant auf ihren Rössern zur Hilfe kamen. Die Geschichte inspiriert alle, die sie hören, und erhöht ihre Fähigkeit, Verbündeten zu helfen oder von ihnen Hilfe zu empfangen."/>
@@ -16165,7 +16168,7 @@
 <label key="key:620956333:228830419" value="Ruft ein Auerochsen-Kalb an Eure Seite. Es möchte die Welt außerhalb des Ringlótals entdecken."/>
 <label key="key:620956334:211796645" value="In Dor-en-Ernil bei Tauschhändlern erhältlich. Ihr müsst dazu die Rufstufe \qVerwandter\q bei den Menschen von Dor-en-Ernil erreichen."/>
 <label key="key:620956334:228830419" value="Ruft einige Sandfliegen an Eure Seite. Sie scheinen sich für Euch zu interessieren."/>
-<label key="key:620956336:211796645" value="Bei Tauschhändlern in Lebennin erhältlich. Ihr müsst dazu die Rufstufe \qVerwandter\q bei den Menschen von Lebennin erreichen."/>
+<label key="key:620956336:211796645" value="Bei Tauschhändlern in Lebennin erhältlich. Ihr müsst dazu Verwandten-Status bei den Menschen von Lebennin erreichen."/>
 <label key="key:620956336:228830419" value="Ruft eine Schmugglerratte an Eure Seite. Sie lebte früher auf einem Korsarenschiff, zieht es nun aber vor, Euch zu begleiten!"/>
 <label key="key:620956343:228830419" value="Ein wilder Angriff, der Eurem Gegner Schaden zufügt und seine Aktion unterbricht.&#10; &#10;Erzeugt Bedrohung."/>
 <label key="key:620956344:228830419" value="Ein wilder Angriff, der Eurem Gegner Schaden zufügt und seine Aktion unterbricht.&#10; &#10;Kostet weniger Zorn."/>
@@ -17177,7 +17180,7 @@
 <label key="key:621021703:33816677" value="Oink"/>
 <label key="key:621021704:33816677" value="Devon"/>
 <label key="key:621021705:211796645" value="Prachtstücke des Glanzes nur für begrenzte Zeit verfügbar."/>
-<label key="key:621021705:228830419" value="Ruft einen schwarz Schwein herbei, die Euch Gesellschaft leistet."/>
+<label key="key:621021705:228830419" value="Ruft eine schwarzes Schwein herbei, die Euch Gesellschaft leistet."/>
 <label key="key:621021708:211796645" value="Verfügbar in den Tälern des Anduin"/>
 <label key="key:621021708:228830419" value="Ruft einen geflecktes Schwein herbei, der Euch Gesellschaft leistet."/>
 <label key="key:621021710:211796645" value="Verfügbar in den Tälern des Anduin"/>
@@ -17263,7 +17266,7 @@
 <label key="key:621026729:211796645" value="Erhältlich, wenn Ihr Shâra Mizâdi bei ihrer glorreichen Jagd in den Hatokáli-Hügeln in Mûr Ghala helft."/>
 <label key="key:621026729:228830419" value="Ruft einen freundlichen Wolfshund herbei, der Euch Gesellschaft leistet."/>
 <label key="key:621026730:211796645" value="Per Tauschhandel in Ost-Gondor erhältlich."/>
-<label key="key:621026730:228830419" value="Ruft einen freundlichen Wolfshund herbei, der Euch Gesellschaft leistet."/>
+<label key="key:621026730:228830419" value="Ruft einen Dachs herbei, der Euch Gesellschaft leistet."/>
 <label key="key:621026731:211796645" value="Per Tauschhandel in Imlad Morgul erhältlich."/>
 <label key="key:621026731:228830419" value="Ruft einen freundlichen Wolfshund herbei, der Euch Gesellschaft leistet."/>
 <label key="key:621026732:33816677" value="Barkus"/>
@@ -17892,7 +17895,7 @@
 <label key="key:621064749:228830419" value="Ihr ruft einen Krähenschwarm herbei, der Euren Gegnern Schaden zufügt und sie vorübergehend die Orientierung verlieren lässt.&#10;&#10;&lt;rgb=#FF7700&gt;Dieser Effekt lässt sich nicht mit anderen mächtigen Effekten für erlittenen Schaden kombinieren.&lt;/rgb&gt;"/>
 <label key="key:621064876:228830419" value="Stärkt Eure Gruppen- und Schlachtzug-Mitglieder mit einem Teil Eurer \qInneren Stärke: Gleichgewicht\q.&#10;&lt;rgb=#FF0000&gt;Die Stärkung \qInnere Stärke: Gleichgewicht\q auf Stufe 4 muss auf dem Schläger aktiviert sein.&lt;/rgb&gt;&#10;&#10;&lt;rgb=#00FF00&gt;Falls Ihr Euch auf den Drehpunkt spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;erhöhte Parier-Wahrscheinlichkeit.&#10;&#10;Falls Ihr Euch auf den Mahlstrom spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;erhöhte Finesse.&lt;/rgb&gt;"/>
 <label key="key:621064877:228830419" value="Stärkt Eure Gruppen- und Schlachtzug-Mitglieder mit einem Teil Eurer \qInneren Stärke: Schwer\q.&#10;&lt;rgb=#FF0000&gt;Die Stärkung \qInnere Stärke: Schwer\q auf Stufe 4 muss auf dem Schläger aktiviert sein.&lt;/rgb&gt;&#10;&#10;&lt;rgb=#00FF00&gt;Falls Ihr Euch auf den Drehpunkt spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;erhöhte physische und taktische Schadensreduzierung.&#10;&#10;Falls Ihr Euch auf den Mahlstrom spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;erhöhte Werte für kritische Treffer.&lt;/rgb&gt;"/>
-<label key="key:621064878:228830419" value="Stärkt Eure Gruppen- und Schlachtzug-Mitglieder mit einem Teil Eurer \qInneren Stärke: Einschüchternde Erscheinung oder Rohe Gewalt\q.&#10;&lt;rgb=#FF0000&gt;Die Stärkung \qInnere Stärke: Schnelligkeit\q auf Stufe 4 muss auf dem Schläger aktiviert sein.&lt;/rgb&gt;&#10;&#10;&lt;rgb=#00FF00&gt;Falls Ihr Euch auf den Drehpunkt spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;verringerte Bedrohungserzeugung.&#10;&#10;Falls Ihr Euch auf den Mahlstrom spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;erhöhten Schaden.&lt;/rgb&gt;"/>
+<label key="key:621064878:228830419" value="Stärkt Eure Gruppen- und Schlachtzug-Mitglieder mit einem Teil Eurer \qInneren Stärke: Schnelligkeit\q.&#10;&lt;rgb=#FF0000&gt;Die Stärkung \qInnere Stärke: Einschüchternde Erscheinung oder Rohe Gewalt\q auf Stufe 4 muss auf dem Schläger aktiviert sein.&lt;/rgb&gt;&#10;&#10;&lt;rgb=#00FF00&gt;Falls Ihr Euch auf den Drehpunkt spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;verringerte Bedrohungserzeugung.&#10;&#10;Falls Ihr Euch auf den Mahlstrom spezialisiert habt, erhalten alle Gruppen- und Schlachtzug-Mitglieder innerhalb von 15 Metern &#10;erhöhten Schaden.&lt;/rgb&gt;"/>
 <label key="key:621065593:33816677" value="Brummel"/>
 <label key="key:621065608:211796645" value="Kann bei Celeblír in Bruchtal ertauscht werden."/>
 <label key="key:621065608:228830419" value="Ruft ein freundliches Bärenjunges herbei, das Euch Gesellschaft leistet."/>
@@ -19579,4 +19582,9 @@
 <label key="key:621129985:138936629" value="Finsternis"/>
 <label key="key:621129986:138936629" value="Vorreiter"/>
 <label key="key:621129987:138936629" value="Vorreiter"/>
+<label key="key:621131921:33816677" value="Edgar"/>
+<label key="key:621131924:211796645" value="Durch Tauschhandel während des Herbstfestes erhältlich!"/>
+<label key="key:621131924:228830419" value="Ruft einen Raben herbei, der Euch in Eurem Zuhause oder auf Euren Reisen Gesellschaft leistet."/>
+<label key="key:621131946:138936629" value="Poe"/>
+<label key="key:621131947:138936629" value="Poe"/>
 </labels>

@@ -143215,6 +143215,9 @@
 <label key="1879498877" value="Tapiz 'Enfrentando a Angmar'"/>
 <label key="1879498878" value="Tapiz 'Arrasando Angmar'"/>
 <label key="1879498895" value="Barriles en estanterías"/>
+<label key="1879498896" value="Small Bonepile"/>
+<label key="1879498897" value="Medium Bonepile"/>
+<label key="1879498898" value="Large Bonepile"/>
 <label key="1879498899" value="Pequeño montón de huesos en flor"/>
 <label key="1879498903" value="Atril de la biblioteca"/>
 <label key="1879498904" value="Armario antiguo"/>
@@ -147975,6 +147978,10 @@
 <label key="1879517274" value="Obelisco ritual de mármol adornado"/>
 <label key="1879517275" value="Gran obelisco de ritual de mármol"/>
 <label key="1879517276" value="Gran obelisco de ritual de mármol adornado"/>
+<label key="1879517277" value="Dark Ritual Altar"/>
+<label key="1879517278" value="Blood-stained Dark Ritual Altar"/>
+<label key="1879517279" value="Marble Ritual Altar"/>
+<label key="1879517280" value="Blood-stained Marble Ritual Altar"/>
 <label key="1879517281" value="Símbolo de Ordâkh"/>
 <label key="1879517282" value="Pequeño brasero de ritual oscuro"/>
 <label key="1879517283" value="Brasero de ritual oscuro mediano"/>
@@ -150742,6 +150749,24 @@
 <label key="1879536192" value="Large Crate of Rare Ore Ingredients"/>
 <label key="1879536193" value="Large Crate of Rare Wood Ingredients"/>
 <label key="1879536195" value="Large Crate of Cook Ingredients"/>
+<label key="1879536593" value="Hood of the Midnight Raven"/>
+<label key="1879536594" value="Cloak of the Midnight Raven"/>
+<label key="1879536595" value="Robe of the Midnight Raven"/>
+<label key="1879536596" value="Scarf of the Midnight Raven"/>
+<label key="1879536597" value="Boots of the Midnight Raven"/>
+<label key="1879536598" value="Working Table of the Midnight Raven"/>
+<label key="1879536599" value="Chair of the Midnight Raven"/>
+<label key="1879536600" value="Table of the Midnight Raven"/>
+<label key="1879536606" value="Tome of the Midnight Raven"/>
+<label key="1879536630" value="Steed of the Midnight Raven"/>
+<label key="1879536635" value="Head-piece of the Midnight Raven"/>
+<label key="1879536636" value="Accessory of the Midnight Raven"/>
+<label key="1879536637" value="Leg-guards of the Midnight Raven"/>
+<label key="1879536638" value="Caparison of the Midnight Raven"/>
+<label key="1879536640" value="Garments of the Midnight Raven - Gift-wrapped Selection Box"/>
+<label key="1879536642" value="War-steed Cosmetics of the Midnight Raven"/>
+<label key="1879537175" value="Level-up 160"/>
+<label key="1879537178" value="160 level-up package"/>
 <label key="key:620757454:100083276" value="Dinero"/>
 <label key="key:620757454:203761950" value="Un montón de dinero."/>
 <label key="key:620757516:54354734" value="Una carta."/>
@@ -230288,4 +230313,17 @@
 <label key="key:621131494:98907573" value="Large Crate of Rare Ore Ingredients"/>
 <label key="key:621131496:54354734" value="Select from cook ingredients appropriate for any crafting tier available."/>
 <label key="key:621131496:98907573" value="Large Crate of Cook Ingredients"/>
+<label key="key:621131925:54354734" value="Using this item will teach you to summon a midnight raven."/>
+<label key="key:621131950:54354734" value="You can use this token to learn a skill to call this mount.&#10;&#10;Using this token will grant you the Steed of the Midnight Raven."/>
+<label key="key:621131955:54354734" value="This item will reward your character with the Mounted Combat appearance trait, Leg-guards of the Midnight Raven."/>
+<label key="key:621131956:54354734" value="This item will reward your character with the Mounted Combat appearance trait, Accessory of the Midnight Raven."/>
+<label key="key:621131957:54354734" value="This item will reward your character with the Mounted Combat appearance trait, Caparison of the Midnight Raven."/>
+<label key="key:621131958:54354734" value="This item will reward your character with the Mounted Combat appearance trait, Head-piece of the Midnight Raven."/>
+<label key="key:621131959:54354734" value="A garment of the midnight raven, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice."/>
+<label key="key:621131959:98907573" value="Garments of the Midnight Raven - Gift-wrapped Selection Box"/>
+<label key="key:621131960:54354734" value="Contains War-steed appearances of the Midnight Raven.&#10;&lt;rgb=#FF0000&gt;Using this item will bind all contents to your character.&lt;/rgb&gt;"/>
+<label key="key:621131960:98907573" value="War-steed Cosmetics of the Midnight Raven"/>
+<label key="key:621132365:54354734" value="This item brings you instantly to level 160.&#10;&#10;When used you will receive Seeker of Deep Places, War-Steed Riding, War-steed, and Valar Instance and Skirmish Access.&#10;&#10;&lt;rgb=#FF0000&gt;When used, you will be teleported to Zajâna.&lt;/rgb&gt;"/>
+<label key="key:621132370:54354734" value="Contains everything you need to instantly become level 160."/>
+<label key="key:621132370:98907573" value="160 level-up package"/>
 </labels>

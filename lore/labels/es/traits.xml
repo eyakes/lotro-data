@@ -3916,6 +3916,8 @@
 <label key="1879536632" value="Leg-guards of the Midnight Raven"/>
 <label key="1879536633" value="Caparison of the Midnight Raven"/>
 <label key="1879536634" value="Head-piece of the Midnight Raven"/>
+<label key="1879537172" value="Valar Level 160 Boosted"/>
+<label key="1879537176" value="Level-up 160"/>
 <label key="key:620757613:191029568" value="Has sido reconocido como alguien que podría influir en el destino de la Tierra Media algún día."/>
 <label key="key:620757613:54354734" value="Has sido reconocido como alguien que podría influir en el destino de la Tierra Media algún día."/>
 <label key="key:620758784:191029568" value="Eres capaz de montar."/>
@@ -9618,4 +9620,8 @@
 <label key="key:621130036:54354734" value="A different visual appearance for your Orc Defiler: a Dark Cursed defiler."/>
 <label key="key:621130037:191029568" value="Una apariencia visual diferente para tu Segador orco. Un orco de Moria de piel pálida, cubierto de cicatrices incandescentes y que lleva una túnica de cuero. La armadura está teñida de naranja."/>
 <label key="key:621130037:54354734" value="A different visual appearance for your Orc Reaver: a Dark Cursed Berserker appearance."/>
+<label key="key:621132367:191029568" value="You have advanced to level 160 with a level-up."/>
+<label key="key:621132367:54354734" value="You have advanced to level 160 with a level-up."/>
+<label key="key:621132369:191029568" value="You have been boosted to level 160."/>
+<label key="key:621132369:54354734" value="You have been boosted to level 160."/>
 </labels>

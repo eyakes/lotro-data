@@ -143215,6 +143215,9 @@
 <label key="1879498877" value="Tapisserie 'Affronter l'Angmar'"/>
 <label key="1879498878" value="Tapisserie 'Éradiquer l'Angmar'"/>
 <label key="1879498895" value="Tonneaux sur étagère"/>
+<label key="1879498896" value="Petit tas d'os"/>
+<label key="1879498897" value="Tas d'os moyen"/>
+<label key="1879498898" value="Gros tas d'os"/>
 <label key="1879498899" value="Petit tas d'os en fleurs"/>
 <label key="1879498903" value="Podium de bibliothèque"/>
 <label key="1879498904" value="Meuble de rangement ancien"/>
@@ -147975,6 +147978,10 @@
 <label key="1879517274" value="Obélisque rituel en marbre décoré"/>
 <label key="1879517275" value="Grand obélisque rituel en marbre"/>
 <label key="1879517276" value="Grand obélisque rituel en marbre décoré"/>
+<label key="1879517277" value="Autel rituel sombre"/>
+<label key="1879517278" value="Autel rituel sombre taché de sang"/>
+<label key="1879517279" value="Autel rituel en marbre"/>
+<label key="1879517280" value="Autel rituel en marbre taché de sang"/>
 <label key="1879517281" value="Symbole d'Ordâkh"/>
 <label key="1879517282" value="Petit brasero rituel sombre"/>
 <label key="1879517283" value="Brasero rituel sombre de taille moyenne"/>
@@ -150742,6 +150749,24 @@
 <label key="1879536192" value="Grande caisse de minerais rares"/>
 <label key="1879536193" value="Grande caisse de bois rares"/>
 <label key="1879536195" value="Grande caisse d'ingrédients de cuisine"/>
+<label key="1879536593" value="Capuche du corbeau de minuit"/>
+<label key="1879536594" value="Cape du corbeau de minuit"/>
+<label key="1879536595" value="Robe du corbeau de minuit"/>
+<label key="1879536596" value="Écharpe du corbeau de minuit"/>
+<label key="1879536597" value="Bottes du corbeau de minuit"/>
+<label key="1879536598" value="Table de travail du corbeau de minuit"/>
+<label key="1879536599" value="Chaise du corbeau de minuit"/>
+<label key="1879536600" value="Table du corbeau de minuit"/>
+<label key="1879536606" value="Tome du corbeau de minuit"/>
+<label key="1879536630" value="Steed of the Midnight Raven"/>
+<label key="1879536635" value="Licol du corbeau de minuit"/>
+<label key="1879536636" value="Accessoire du corbeau de minuit"/>
+<label key="1879536637" value="Houseaux du corbeau de minuit"/>
+<label key="1879536638" value="Caparaçon du corbeau de minuit"/>
+<label key="1879536640" value="Vêtements du corbeau de minuit - Boîte de choix emballée dans du papier cadeau"/>
+<label key="1879536642" value="Ornementations pour monture de guerre du corbeau de minuit"/>
+<label key="1879537175" value="Level-up 160"/>
+<label key="1879537178" value="160 level-up package"/>
 <label key="key:620757454:100083276" value="Argent"/>
 <label key="key:620757454:203761950" value="Une pile d'argent."/>
 <label key="key:620757516:54354734" value="Lettre."/>
@@ -229957,10 +229982,10 @@
 <label key="key:621127923:98907573" value="Ornementations de garde-robe luxuriantes du client des alliés promis"/>
 <label key="key:621127925:54354734" value="Ce jeton vous permet d'apprendre la compétence permettant d'appeler cette monture.&#10;&#10;Il vous conférera la compétence Monture des alliés promis."/>
 <label key="key:621127937:54354734" value="Cet objet vous confère l'emote de style de voyage des alliés promis (/milestone_promise)."/>
-<label key="key:621127940:54354734" value="Utilisez cette bannière de bienvenue pour invoquer le voisin Haldo Banqueruée. &lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que le voisin n'apparaisse pas correctement.&lt;/rgb&gt;"/>
-<label key="key:621127941:54354734" value="Utilisez cette bannière de bienvenue pour invoquer le voisin Emmathron. &lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que le voisin n'apparaisse pas correctement.&lt;/rgb&gt;"/>
-<label key="key:621127942:54354734" value="Utilisez cette bannière de bienvenue pour invoquer la voisine Golwen. &lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que la voisine n'apparaisse pas correctement.&lt;/rgb&gt;"/>
-<label key="key:621127943:54354734" value="Utilisez cette bannière de bienvenue pour invoquer la voisine Brutha la Rebelle. &lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que la voisine n'apparaisse pas correctement.&lt;/rgb&gt;"/>
+<label key="key:621127940:54354734" value="Utilisez cette bannière de bienvenue pour invoquer le voisin Haldo Banqueruée.&#10;&#10;&lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que le voisin n'apparaisse pas correctement.&lt;/rgb&gt;"/>
+<label key="key:621127941:54354734" value="Utilisez cette bannière de bienvenue pour invoquer le voisin Emmathron.&#10;&#10;&lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que le voisin n'apparaisse pas correctement.&lt;/rgb&gt;"/>
+<label key="key:621127942:54354734" value="Utilisez cette bannière de bienvenue pour invoquer la voisine Golwen.&#10;&#10;&lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que la voisine n'apparaisse pas correctement.&lt;/rgb&gt;"/>
+<label key="key:621127943:54354734" value="Utilisez cette bannière de bienvenue pour invoquer la voisine Brutha la Rebelle.&#10;&#10;&lt;rgb=#00ff00&gt;Il est conseillé de placer les bannières dehors. Si vous les placez à l'intérieur, il est possible que la voisine n'apparaisse pas correctement.&lt;/rgb&gt;"/>
 <label key="key:621128012:54354734" value="Un objet accordant un cadre de portrait lié au compte pour la saison de l'agression renouvelée du suivi de récompense de joueur monstre."/>
 <label key="key:621128014:54354734" value="Contient le cadre de portrait de la saison de l'agression renouvelée."/>
 <label key="key:621128014:98907573" value="Cadre de portrait de la saison de l'agression renouvelée"/>
@@ -230288,4 +230313,17 @@
 <label key="key:621131494:98907573" value="Grande caisse de minerais rares"/>
 <label key="key:621131496:54354734" value="Sélectionnez des ingrédients de cuisine adaptés à n'importe quel niveau d'artisanat disponible."/>
 <label key="key:621131496:98907573" value="Grande caisse d'ingrédients de cuisine"/>
+<label key="key:621131925:54354734" value="Utiliser cet objet vous enseigne la compétence nécessaire pour invoquer un veau des alpages."/>
+<label key="key:621131950:54354734" value="You can use this token to learn a skill to call this mount.&#10;&#10;Using this token will grant you the Steed of the Midnight Raven."/>
+<label key="key:621131955:54354734" value="Cet objet récompensera votre personnage avec le Trait d'apparence de combat monté : Houseaux du corbeau de minuit."/>
+<label key="key:621131956:54354734" value="Cet objet récompensera votre personnage avec le Trait d'apparence de combat monté : Accessoire du corbeau de minuit."/>
+<label key="key:621131957:54354734" value="Cet objet récompensera votre personnage avec le Trait d'apparence de combat monté : Caparaçon du corbeau de minuit."/>
+<label key="key:621131958:54354734" value="Cet objet récompensera votre personnage avec le Trait d'apparence de combat monté : Licol du corbeau de minuit."/>
+<label key="key:621131959:54354734" value="Un vêtement du corbeau de minuit, emballé et prêt à être offert à quelqu'un qui vous est cher. Permet de sélectionner un vêtement de votre choix."/>
+<label key="key:621131959:98907573" value="Vêtements du corbeau de minuit - Boîte de choix emballée dans du papier cadeau"/>
+<label key="key:621131960:54354734" value="Contient des apparences de monture de guerre du corbeau de minuit.&#10;&lt;rgb=#FF0000&gt;Utiliser cet objet lie tout son contenu à votre personnage.&lt;/rgb&gt;"/>
+<label key="key:621131960:98907573" value="Ornementations pour monture de guerre du corbeau de minuit"/>
+<label key="key:621132365:54354734" value="This item brings you instantly to level 160.&#10;&#10;When used you will receive Seeker of Deep Places, War-Steed Riding, War-steed, and Valar Instance and Skirmish Access.&#10;&#10;&lt;rgb=#FF0000&gt;When used, you will be teleported to Zajâna.&lt;/rgb&gt;"/>
+<label key="key:621132370:54354734" value="Contains everything you need to instantly become level 160."/>
+<label key="key:621132370:98907573" value="160 level-up package"/>
 </labels>

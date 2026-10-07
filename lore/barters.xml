@@ -11762,6 +11762,26 @@
 <barterProfile profileId="1879101861" name="Fall Festival Steeds">
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="60"/>
+<receive id="1879536630" name="Steed of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536636" name="Accessory of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536638" name="Caparison of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536635" name="Head-piece of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="18"/>
+<receive id="1879536637" name="Leg-guards of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="60"/>
 <receive id="1879517201" name="Fall Hobby-broom"/>
 </barterEntry>
 <barterEntry>
@@ -65087,6 +65107,14 @@
 <barterProfile profileId="1879338950" name="Cosmetic Pets">
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="40"/>
+<receive id="1879536606" name="Tome of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="30"/>
+<receive id="1879536606" name="Tome of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="40"/>
 <receive id="1879516874" name="Tome of the Pumpkin Huorn"/>
 </barterEntry>
 <barterEntry>
@@ -70375,6 +70403,10 @@
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879361365" name="Cosmetic Clothing - Gift Boxes">
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536640" name="Garments of the Midnight Raven - Gift-wrapped Selection Box"/>
+</barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
 <receive id="1879516968" name="Cobweb Garments - Gift-wrapped Selection Box"/>
@@ -78517,79 +78549,111 @@
 <barterProfile profileId="1879381295" name="New Items">
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
-<receive id="1879516968" name="Cobweb Garments - Gift-wrapped Selection Box"/>
+<receive id="1879536640" name="Garments of the Midnight Raven - Gift-wrapped Selection Box"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
-<receive id="1879516614" name="Cobweb Robe"/>
+<receive id="1879536594" name="Cloak of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
-<receive id="1879516876" name="Cobweb Hat"/>
+<receive id="1879536597" name="Boots of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
-<receive id="1879516604" name="Cobweb Cloak"/>
+<receive id="1879536593" name="Hood of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
-<receive id="1879516602" name="Hooded Cobweb Cloak"/>
+<receive id="1879536596" name="Scarf of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
-<receive id="1879516932" name="Harvestmath Cauldron"/>
-</barterEntry>
-<barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="60"/>
-<receive id="1879517201" name="Fall Hobby-broom"/>
-</barterEntry>
-<barterEntry>
-<give id="1879255991" name="Mithril Coin" quantity="70"/>
-<receive id="1879517201" name="Fall Hobby-broom"/>
+<receive id="1879536595" name="Robe of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="40"/>
-<receive id="1879516874" name="Tome of the Pumpkin Huorn"/>
+<receive id="1879536606" name="Tome of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
 <give id="1879255991" name="Mithril Coin" quantity="30"/>
-<receive id="1879516874" name="Tome of the Pumpkin Huorn"/>
+<receive id="1879536606" name="Tome of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="40"/>
-<receive id="1879463033" name="Tome of the Autumn Aurochs"/>
+<give id="1879098272" name="Fall Festival Token" quantity="60"/>
+<receive id="1879536630" name="Steed of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="70"/>
+<receive id="1879536630" name="Steed of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536636" name="Accessory of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536638" name="Caparison of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536635" name="Head-piece of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="18"/>
+<receive id="1879536637" name="Leg-guards of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="70"/>
+<receive id="1879536642" name="War-steed Cosmetics of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="75"/>
+<receive id="1879520602" name="Guise of Nakási Wave-reaper"/>
+</barterEntry>
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="75"/>
+<receive id="1879520611" name="Guise of Hármelak Golden-hand"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="10"/>
+<receive id="1879536599" name="Chair of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="15"/>
+<receive id="1879536600" name="Table of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="30"/>
-<receive id="1879516933" name="Heating Cauldron"/>
+<receive id="1879536598" name="Working Table of the Midnight Raven"/>
 </barterEntry>
 <barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="30"/>
-<receive id="1879508822" name="Small Potions Table"/>
+<give id="1879098272" name="Fall Festival Token" quantity="8"/>
+<receive id="1879498896" name="Small Bonepile"/>
 </barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="12"/>
-<receive id="1879498938" name="Pumpkins"/>
+<receive id="1879498897" name="Medium Bonepile"/>
 </barterEntry>
 <barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="10"/>
-<receive id="1879518296" name="'Spooky' Themes"/>
+<give id="1879098272" name="Fall Festival Token" quantity="18"/>
+<receive id="1879498898" name="Large Bonepile"/>
 </barterEntry>
 <barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="10"/>
-<receive id="1879518294" name="'Haunted House' Ambience"/>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517277" name="Dark Ritual Altar"/>
 </barterEntry>
 <barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="10"/>
-<receive id="1879518295" name="'Haunted Yard' Ambience"/>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517278" name="Blood-stained Dark Ritual Altar"/>
 </barterEntry>
 <barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="8"/>
-<receive id="1879501058" name="Webbed Thorny Hedge"/>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517279" name="Marble Ritual Altar"/>
 </barterEntry>
 <barterEntry>
-<give id="1879098272" name="Fall Festival Token" quantity="8"/>
-<receive id="1879501055" name="Wild Webbed Hedge"/>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517280" name="Blood-stained Marble Ritual Altar"/>
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879381620" name="Housing Items - 2">
@@ -78797,6 +78861,10 @@
 <barterProfile profileId="1879381623" name="Tunics, Trousers, Dresses, and Outfits">
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536595" name="Robe of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
 <receive id="1879516614" name="Cobweb Robe"/>
 </barterEntry>
 <barterEntry>
@@ -78871,6 +78939,10 @@
 <barterProfile profileId="1879381624" name="Hats and Masks">
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536593" name="Hood of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
 <receive id="1879516876" name="Cobweb Hat"/>
 </barterEntry>
 <barterEntry>
@@ -78917,6 +78989,14 @@
 <barterProfile profileId="1879381625" name="Shoulder-pieces and Footwear">
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536597" name="Boots of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536596" name="Scarf of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
 <receive id="1879493389" name="Boots of Masked Wisdom"/>
 </barterEntry>
 <barterEntry>
@@ -78953,6 +79033,46 @@
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879381629" name="Housing Items - 1">
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="10"/>
+<receive id="1879536599" name="Chair of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="15"/>
+<receive id="1879536600" name="Table of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="30"/>
+<receive id="1879536598" name="Working Table of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="8"/>
+<receive id="1879498896" name="Small Bonepile"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="12"/>
+<receive id="1879498897" name="Medium Bonepile"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="18"/>
+<receive id="1879498898" name="Large Bonepile"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517277" name="Dark Ritual Altar"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517278" name="Blood-stained Dark Ritual Altar"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517279" name="Marble Ritual Altar"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="20"/>
+<receive id="1879517280" name="Blood-stained Marble Ritual Altar"/>
+</barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="30"/>
 <receive id="1879516933" name="Heating Cauldron"/>
@@ -79009,6 +79129,14 @@
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879381733" name="Treats and Trickery">
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="75"/>
+<receive id="1879520602" name="Guise of Nakási Wave-reaper"/>
+</barterEntry>
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="75"/>
+<receive id="1879520611" name="Guise of Hármelak Golden-hand"/>
+</barterEntry>
 <barterEntry>
 <give id="1879255991" name="Mithril Coin" quantity="50"/>
 <receive id="1879494886" name="Guise of Galadriel"/>
@@ -81561,6 +81689,14 @@
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879395411" name="Fall Festival Steeds - Mithril I">
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="70"/>
+<receive id="1879536630" name="Steed of the Midnight Raven"/>
+</barterEntry>
+<barterEntry>
+<give id="1879255991" name="Mithril Coin" quantity="70"/>
+<receive id="1879536642" name="War-steed Cosmetics of the Midnight Raven"/>
+</barterEntry>
 <barterEntry>
 <give id="1879255991" name="Mithril Coin" quantity="70"/>
 <receive id="1879517201" name="Fall Hobby-broom"/>
@@ -93024,6 +93160,10 @@
 </barterEntry>
 </barterProfile>
 <barterProfile profileId="1879412822" name="Cloaks and Back Items">
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="24"/>
+<receive id="1879536594" name="Cloak of the Midnight Raven"/>
+</barterEntry>
 <barterEntry>
 <give id="1879098272" name="Fall Festival Token" quantity="24"/>
 <receive id="1879516604" name="Cobweb Cloak"/>

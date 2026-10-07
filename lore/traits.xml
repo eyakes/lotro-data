@@ -13943,16 +13943,18 @@
 <stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="117.0"/>
 <group code="18" name="Skin Appearance"/>
 </trait>
-<trait identifier="1879536631" name="Accessory of the Midnight Raven" iconId="1091947416" category="54" nature="16">
+<trait identifier="1879536631" name="Accessory of the Midnight Raven" iconId="1093178477" category="54" nature="16">
 <group code="13" name="Gear"/>
 </trait>
-<trait identifier="1879536632" name="Leg-guards of the Midnight Raven" iconId="1091947416" category="54" nature="16">
+<trait identifier="1879536632" name="Leg-guards of the Midnight Raven" iconId="1093178479" category="54" nature="16">
 <group code="10" name="Legs"/>
 </trait>
-<trait identifier="1879536633" name="Caparison of the Midnight Raven" iconId="1091947416" category="54" nature="16">
+<trait identifier="1879536633" name="Caparison of the Midnight Raven" iconId="1093178487" category="54" nature="16">
 <group code="9" name="Body"/>
 </trait>
-<trait identifier="1879536634" name="Head-piece of the Midnight Raven" iconId="1091947416" category="54" nature="16">
+<trait identifier="1879536634" name="Head-piece of the Midnight Raven" iconId="1093178482" category="54" nature="16">
 <group code="8" name="Head"/>
 </trait>
+<trait identifier="1879537172" name="Valar Level 160 Boosted" iconId="1090620289" category="29" nature="1" cosmetic="true" tooltip="key:621132369:191029568" description="key:621132369:54354734"/>
+<trait identifier="1879537176" name="Level-up 160" iconId="1090620289" category="29" nature="1" cosmetic="true" tooltip="key:621132367:191029568" description="key:621132367:54354734"/>
 </traits>

@@ -101972,4 +101972,5 @@
 </mob>
 <mob id="1879533170" name="Treasure Grim" division="162" alignment="2" class="51" classFilter="2" genus="14" species="27" subSpecies="132"/>
 <mob id="1879533967" name="The Hunter's Hound" division="162" alignment="2" class="51" classFilter="2" genus="14" species="27" subSpecies="132"/>
+<mob id="1879536602" name="Midnight Raven" division="162" alignment="2" class="51" classFilter="2" genus="14" species="27" subSpecies="132"/>
 </mobs>

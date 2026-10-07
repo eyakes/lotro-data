@@ -958,8 +958,8 @@
 <label key="1879079208" value="Godwig der Faule"/>
 <label key="1879079209" value="Bannwart Distelwolle"/>
 <label key="1879079211" value="Harald Grünkorn"/>
-<label key="1879079213" value="Baumeister Borin"/>
-<label key="1879079214" value="Baumeister Earur"/>
+<label key="1879079213" value="Polier Borin"/>
+<label key="1879079214" value="Polier Earur"/>
 <label key="1879079234" value="Jäger"/>
 <label key="1879079235" value="Celandine Brandybock"/>
 <label key="1879079237" value="Gefangener Räuber"/>
@@ -3408,11 +3408,11 @@
 <label key="1879199894" value="Gast"/>
 <label key="1879199895" value="Besucher"/>
 <label key="1879199896" value="Besucher"/>
-<label key="1879199897" value="Gast"/>
+<label key="1879199897" value="Besucherin"/>
 <label key="1879199898" value="Besucher"/>
-<label key="1879199899" value="Gast"/>
-<label key="1879199900" value="Gast"/>
-<label key="1879199901" value="Gast"/>
+<label key="1879199899" value="Besucherin"/>
+<label key="1879199900" value="Besucherin"/>
+<label key="1879199901" value="Besucherin"/>
 <label key="1879199939" value="Vergessener König"/>
 <label key="1879199940" value="Vergessener König"/>
 <label key="1879199941" value="Vergessener König"/>
@@ -3505,7 +3505,7 @@
 <label key="1879204062" value="Pippie Dornendickicht"/>
 <label key="1879204063" value="Emma Grünbusch"/>
 <label key="1879204064" value="Fürchterlicher Junghobbit"/>
-<label key="1879204065" value="Fürchterliches Junghobbitmädchen"/>
+<label key="1879204065" value="Fürchterlicher Junghobbit"/>
 <label key="1879204168" value="Trevadir"/>
 <label key="1879204169" value="Grimric Dachsbau"/>
 <label key="1879204170" value="Andol"/>
@@ -5647,9 +5647,9 @@
 <label key="1879277706" value="Rohirrim-Schwertkämpfer"/>
 <label key="1879277747" value="Wache"/>
 <label key="1879277863" value="Mithril-Händler"/>
-<label key="1879277885" value="Mithril-Händlerin"/>
-<label key="1879277886" value="Mithril-Händlerin"/>
-<label key="1879277887" value="Mithril-Händlerin"/>
+<label key="1879277885" value="Mithril-Händler"/>
+<label key="1879277886" value="Mithril-Händler"/>
+<label key="1879277887" value="Mithril-Händler"/>
 <label key="1879277995" value="Kind"/>
 <label key="1879277996" value="Junge"/>
 <label key="1879277998" value="Léodferth"/>
@@ -6194,7 +6194,7 @@
 <label key="1879313713" value="Legendäre Rezepte"/>
 <label key="1879313714" value="Verbesserte Rezepte"/>
 <label key="1879313715" value="Verbesserte Rezepte"/>
-<label key="1879313716" value="Legendäre Umbar-Rezepte"/>
+<label key="1879313716" value="Legendäre Rezepte"/>
 <label key="1879313717" value="Gildenanführer"/>
 <label key="1879313718" value="Gildenanführer"/>
 <label key="1879313719" value="Legendäre Rezepte"/>
@@ -8395,7 +8395,7 @@
 <label key="1879354141" value="Soldat von Gondor"/>
 <label key="1879354143" value="Erzzauberer der Harad"/>
 <label key="1879354144" value="Borangos der Schrecken"/>
-<label key="1879354145" value="Merrevail-Dienerin"/>
+<label key="1879354145" value="Morroval-Dienerin"/>
 <label key="1879354146" value="Diener der Flamme"/>
 <label key="1879354148" value="Nurnhoth-Sklave"/>
 <label key="1879354149" value="Dulgabêth"/>
@@ -8920,17 +8920,17 @@
 <label key="1879367183" value="Lachender Hobbit"/>
 <label key="1879367184" value="Gekrönter Hirsch"/>
 <label key="1879367185" value="Bauender Biber"/>
-<label key="1879367186" value="Schneller Falke"/>
-<label key="1879367187" value="Jagender Bär"/>
+<label key="1879367186" value="Flinke Falke"/>
+<label key="1879367187" value="Jagdbär"/>
 <label key="1879367188" value="Großer Adler"/>
 <label key="1879367189" value="Frethi"/>
 <label key="1879367190" value="Weißer Schwan"/>
-<label key="1879367191" value="Kalte Schlange"/>
+<label key="1879367191" value="Frierende Schlange"/>
 <label key="1879367192" value="Erinnerung an Théoden"/>
-<label key="1879367193" value="Verängstigter Hase"/>
-<label key="1879367194" value="Kämpfender Eber"/>
+<label key="1879367193" value="Verängstigt!"/>
+<label key="1879367194" value="Kampfender Keiler"/>
 <label key="1879367195" value="Grasender Ochse"/>
-<label key="1879367196" value="Springender Hirsch"/>
+<label key="1879367196" value="Springender Bock"/>
 <label key="1879367197" value="Baumbart"/>
 <label key="1879367198" value="Hungriger Hund"/>
 <label key="1879367838" value="Erinnerung an die Kreatur"/>
@@ -9889,7 +9889,7 @@
 <label key="1879393968" value="Ausruhender Waldläufer"/>
 <label key="1879393969" value="Halhir"/>
 <label key="1879393970" value="Spurenlesender Waldläufer"/>
-<label key="1879393971" value="Ausgehungerter Waldläufer"/>
+<label key="1879393971" value="Ausgehungerter Waldläuferm"/>
 <label key="1879393994" value="Truhe"/>
 <label key="1879394036" value="Verbesserte Rezepte"/>
 <label key="1879394037" value="Verbesserte Rezepte"/>
@@ -9950,7 +9950,7 @@
 <label key="1879395481" value="Ork-Unteroffizier Ugrukhôrs"/>
 <label key="1879395482" value="Ork-Soldat Ugrukhôrs"/>
 <label key="1879395483" value="Ork-Soldat Gothmogs"/>
-<label key="1879395484" value="Ork-Unteroffizier Gothmogs"/>
+<label key="1879395484" value="Ork-Unteroffizier Gothmogsm"/>
 <label key="1879395498" value="Dolenthol"/>
 <label key="1879395582" value="Thornaran"/>
 <label key="1879395745" value="Glorfindel"/>
@@ -9964,14 +9964,14 @@
 <label key="1879395907" value="Amdir"/>
 <label key="1879395908" value="Ork"/>
 <label key="1879395909" value="Thargaun"/>
-<label key="1879395910" value="Herausgerissene Seite"/>
+<label key="1879395910" value="Zerschlissene Seite"/>
 <label key="1879395911" value="Viznak"/>
 <label key="1879395912" value="Thargaun"/>
-<label key="1879395913" value="Herausgerissene Seite"/>
-<label key="1879395914" value="Herausgerissene Seite"/>
+<label key="1879395913" value="Zerschlissene Seite"/>
+<label key="1879395914" value="Zerschlissene Seite"/>
 <label key="1879395915" value="Viznak"/>
-<label key="1879395916" value="Herausgerissene Seite"/>
-<label key="1879395917" value="Herausgerissene Seite"/>
+<label key="1879395916" value="Zerschlissene Seite"/>
+<label key="1879395917" value="Zerschlissene Seite"/>
 <label key="1879395918" value="Viznak"/>
 <label key="1879395919" value="Verletzter Ork"/>
 <label key="1879395920" value="Verletzter Ork"/>
@@ -9991,15 +9991,15 @@
 <label key="1879396131" value="Cuilion"/>
 <label key="1879396133" value="Mithrandir"/>
 <label key="1879396134" value="Ruheloser Geist"/>
-<label key="1879396135" value="Schatten von Ivar"/>
+<label key="1879396135" value="Schatten der Angst"/>
 <label key="1879396136" value="Ruheloser Geist"/>
 <label key="1879396138" value="Mithrandir"/>
 <label key="1879396139" value="Schatten von Drûgoth"/>
-<label key="1879396144" value="Schatten von Thadúr"/>
+<label key="1879396144" value="Schatten von Thadúrm"/>
 <label key="1879396145" value="Ruheloser Geist"/>
-<label key="1879396146" value="Schatten von Ferndúr"/>
+<label key="1879396146" value="Schatten von Ferndúrm"/>
 <label key="1879396148" value="Taurdir"/>
-<label key="1879396152" value="Schatten von Gortheron"/>
+<label key="1879396152" value="Schatten von Gortheronm"/>
 <label key="1879396155" value="Ruheloser Geist"/>
 <label key="1879396159" value="Ruheloser Geist"/>
 <label key="1879396163" value="Mithrandir"/>
@@ -10028,8 +10028,8 @@
 <label key="1879396750" value="Dornach"/>
 <label key="1879396751" value="Dornach"/>
 <label key="1879396752" value="Weinender Schatten"/>
-<label key="1879396753" value="Wimmernder Schatten"/>
-<label key="1879396754" value="Jammernder Schatten"/>
+<label key="1879396753" value="Wimmernder Schattenf"/>
+<label key="1879396754" value="Jammernder Schattenm"/>
 <label key="1879396755" value="Schluchzender Schatten"/>
 <label key="1879396880" value="Narthavron"/>
 <label key="1879397126" value="Lhaereth die Befleckte"/>
@@ -13604,8 +13604,8 @@
 <label key="1879470506" value="Nob"/>
 <label key="1879470516" value="Besucher"/>
 <label key="1879470517" value="Besucher"/>
-<label key="1879470518" value="Gast"/>
-<label key="1879470519" value="Gast"/>
+<label key="1879470518" value="Besucherin"/>
+<label key="1879470519" value="Besucherin"/>
 <label key="1879470520" value="Besucher"/>
 <label key="1879470602" value="Treibholz"/>
 <label key="1879470603" value="Bekannte Frau"/>
@@ -14938,10 +14938,10 @@
 <label key="1879499840" value="Inkanûsh"/>
 <label key="1879499841" value="Glorfindel"/>
 <label key="1879499842" value="Ushrin"/>
-<label key="1879499875" value="Wächter-Tauschhändler"/>
+<label key="1879499875" value="Wächter-Tauschhändlerin"/>
 <label key="1879499876" value="\qDer Tempel von Utug-bûr\q-Quartiermeister"/>
 <label key="1879499877" value="Tauschhändler für Waffenmeister"/>
-<label key="1879499878" value="Ausbilderin für Hauptleute"/>
+<label key="1879499878" value="Tauschhändler für Hauptleute"/>
 <label key="1879499879" value="Beorninger-Tauschhändler"/>
 <label key="1879499880" value="Schurken-Tauschhändler"/>
 <label key="1879499881" value="Kundigen-Tauschhändlerin"/>
@@ -15402,7 +15402,7 @@
 <label key="1879503570" value="Amalíbi"/>
 <label key="1879503571" value="Rahâzi"/>
 <label key="1879503573" value="Ekhamâti-Krieger"/>
-<label key="1879503574" value="Ekhamâti-Umûni"/>
+<label key="1879503574" value="Ekhamâti-Umûn"/>
 <label key="1879503575" value="Ekhamâti-Späher"/>
 <label key="1879503576" value="Ekhamâti-Zauberer"/>
 <label key="1879503963" value="Hamâti-Quartiermeisterin"/>
@@ -16024,7 +16024,7 @@
 <label key="1879521625" value="Trommlerin"/>
 <label key="1879521626" value="Welduth Lhush"/>
 <label key="1879521732" value="Einrichtungshändler von Bruchtal"/>
-<label key="1879521821" value="Ausbilderin für Hauptleute"/>
+<label key="1879521821" value="Tauschhändler für Hauptleute"/>
 <label key="1879521826" value="Jäger-Tauschhändler"/>
 <label key="1879521827" value="Iwein 'das Mal' Weißdorn"/>
 <label key="1879521833" value="Seefahrerausbilder"/>
@@ -16040,7 +16040,7 @@
 <label key="1879521865" value="Barden-Tauschhändlerin"/>
 <label key="1879521868" value="Tauschhändlerin für Hüter"/>
 <label key="1879521869" value="Mûr-Ghala-Quartiermeister"/>
-<label key="1879521873" value="Wächter-Tauschhändler"/>
+<label key="1879521873" value="Wächter-Tauschhändlerin"/>
 <label key="1879522291" value="Aufmüpfiger Jugendlicher"/>
 <label key="1879522292" value="Aufmüpfige Jugendliche"/>
 <label key="1879522406" value="Hobbit auf Durchreise"/>
@@ -16863,7 +16863,7 @@
 <label key="key:620768151:229802005" value="Händler für mittlere Rüstungen"/>
 <label key="key:620768152:229802005" value="Waffenhändler für einhändige Waffen"/>
 <label key="key:620768153:229802005" value="Waffenhändler für zweihändige Waffen"/>
-<label key="key:620768155:229802005" value="Provisioner"/>
+<label key="key:620768155:229802005" value="Vorratshändler"/>
 <label key="key:620768156:229802005" value="Bogenmacher"/>
 <label key="key:620768157:229802005" value="Bogenmacher"/>
 <label key="key:620768158:229802005" value="Schmied für schwere Rüstungen"/>
@@ -17034,9 +17034,9 @@
 <label key="key:620790272:229802005" value="Verkäuferin von Feuerwerkskörpern"/>
 <label key="key:620790274:229802005" value="Enedhin-Fest-Vorratshändlerin"/>
 <label key="key:620790275:229802005" value="Anführer der Fliegenden Federn"/>
-<label key="key:620790276:229802005" value="Pfeifenkraut-Verkäufer"/>
+<label key="key:620790276:229802005" value="Pfeifenkraut-Verkäuferin"/>
 <label key="key:620790277:229802005" value="Anführerin der Stahlschnäbel"/>
-<label key="key:620790278:229802005" value="Tanzlehrerin"/>
+<label key="key:620790278:229802005" value="Tanzlehrer"/>
 <label key="key:620790280:229802005" value="Mitglied der Gasthausliga"/>
 <label key="key:620790281:229802005" value="Mitglied der Gasthausliga"/>
 <label key="key:620790713:229802005" value="Stallmeister"/>
@@ -17160,7 +17160,7 @@
 <label key="key:620799382:229802005" value="Hausausstatter"/>
 <label key="key:620799383:229802005" value="Hausausstatter"/>
 <label key="key:620799384:229802005" value="Hausausstatter"/>
-<label key="key:620799509:229802005" value="Handelsfrau und Vorratshändlerin"/>
+<label key="key:620799509:229802005" value="Handelsmann und Vorratshändler"/>
 <label key="key:620799510:229802005" value="Handelsmann und Vorratshändler"/>
 <label key="key:620799511:229802005" value="Handelsmann und Vorratshändler"/>
 <label key="key:620799512:229802005" value="Handelsfrau und Vorratshändlerin"/>
@@ -17212,9 +17212,9 @@
 <label key="key:620801183:229802005" value="Händler für Zierwerk"/>
 <label key="key:620801660:229802005" value="Stallmeister"/>
 <label key="key:620801661:229802005" value="Stallmeister"/>
-<label key="key:620801662:229802005" value="Barbierin"/>
+<label key="key:620801662:229802005" value="Barbier"/>
 <label key="key:620801663:229802005" value="Barbier"/>
-<label key="key:620801664:229802005" value="Barbier"/>
+<label key="key:620801664:229802005" value="Barbierin"/>
 <label key="key:620801665:229802005" value="Barbierin"/>
 <label key="key:620801697:229802005" value="Mitglied der Gasthausliga"/>
 <label key="key:620801698:229802005" value="Mitglied der Gasthausliga"/>
@@ -17241,9 +17241,9 @@
 <label key="key:620803039:229802005" value="Heiler"/>
 <label key="key:620803040:229802005" value="Handelsfrau und Vorratshändlerin"/>
 <label key="key:620803041:229802005" value="Heiler"/>
-<label key="key:620803042:229802005" value="Handelsfrau und Vorratshändlerin"/>
+<label key="key:620803042:229802005" value="Handelsmann und Vorratshändler"/>
 <label key="key:620803043:229802005" value="Heilerin"/>
-<label key="key:620803044:229802005" value="Handelsfrau und Vorratshändlerin"/>
+<label key="key:620803044:229802005" value="Handelsmann und Vorratshändler"/>
 <label key="key:620803322:229802005" value="Waffenmeister"/>
 <label key="key:620803740:229802005" value="Winzer"/>
 <label key="key:620803837:229802005" value="Wächter"/>
@@ -17326,7 +17326,7 @@
 <label key="key:620815808:229802005" value="Stallmeisterin"/>
 <label key="key:620817344:229802005" value="Weiser von Eriador"/>
 <label key="key:620817345:229802005" value="Händlerin für Schmuck"/>
-<label key="key:620817346:229802005" value="Weiser von Eriador"/>
+<label key="key:620817346:229802005" value="Weise von Eriador"/>
 <label key="key:620817352:229802005" value="Tauschhändlerin für gemischte Waren"/>
 <label key="key:620817353:229802005" value="Schurken-Tauschhändler"/>
 <label key="key:620817354:229802005" value="Tauschhändler für Hauptleute"/>
@@ -17337,7 +17337,7 @@
 <label key="key:620817359:229802005" value="Händlerin für mittlere Rüstungen"/>
 <label key="key:620817360:229802005" value="Händler für leichte Rüstungen"/>
 <label key="key:620817361:229802005" value="Händlerin für schwere Rüstungen"/>
-<label key="key:620817362:229802005" value="Weiser von Eriador"/>
+<label key="key:620817362:229802005" value="Weise von Eriador"/>
 <label key="key:620817365:229802005" value="Weise von Eriador"/>
 <label key="key:620817368:229802005" value="Händler"/>
 <label key="key:620817393:229802005" value="Meister der Handwerksgilden"/>
@@ -17347,7 +17347,7 @@
 <label key="key:620818072:229802005" value="Heiler"/>
 <label key="key:620818073:229802005" value="Handelsfrau und Vorratshändlerin"/>
 <label key="key:620818074:229802005" value="Heilerin"/>
-<label key="key:620818075:229802005" value="Handelsfrau und Vorratshändlerin"/>
+<label key="key:620818075:229802005" value="Handelsmann und Vorratshändler"/>
 <label key="key:620818076:229802005" value="Ausbilder für Schurken"/>
 <label key="key:620818077:229802005" value="Heiler"/>
 <label key="key:620818078:229802005" value="Handelsfrau und Vorratshändlerin"/>
@@ -17498,8 +17498,8 @@
 <label key="key:620833416:229802005" value="Hüter-Tauschhändler"/>
 <label key="key:620833867:229802005" value="Vermögensverwahrer"/>
 <label key="key:620834315:229802005" value="Tierpräparator"/>
-<label key="key:620834627:229802005" value="${PLAYERNAME:Erkunder[m]|Erkunderin[f]} von Eregion"/>
-<label key="key:620834628:229802005" value="${PLAYERNAME:Erkunder[m]|Erkunderin[f]} von Eregion"/>
+<label key="key:620834627:229802005" value="Erkunder von Eregion"/>
+<label key="key:620834628:229802005" value="Erkunder von Eregion"/>
 <label key="key:620834718:229802005" value="Notarin"/>
 <label key="key:620835008:229802005" value="Schneider"/>
 <label key="key:620835315:229802005" value="Eiserne Garnison"/>
@@ -17511,7 +17511,7 @@
 <label key="key:620835687:229802005" value="Labyrinth-Meister"/>
 <label key="key:620835688:229802005" value="Labyrinth-Meisterin"/>
 <label key="key:620835689:229802005" value="Labyrinth-Meisterin"/>
-<label key="key:620835696:229802005" value="Rennleiter"/>
+<label key="key:620835696:229802005" value="Labyrinth-Meister"/>
 <label key="key:620835898:229802005" value="Gelehrter der Bäume"/>
 <label key="key:620836029:229802005" value="Mitglied der Gasthausliga"/>
 <label key="key:620836512:229802005" value="Tauschhändler"/>
@@ -17626,7 +17626,7 @@
 <label key="key:620843527:229802005" value="Thorins Halle"/>
 <label key="key:620843528:229802005" value="Thorins Halle"/>
 <label key="key:620843724:229802005" value="Eglain-Tauschhändler"/>
-<label key="key:620843727:229802005" value="Reisende Händlerin"/>
+<label key="key:620843727:229802005" value="Fahrende Händlerin"/>
 <label key="key:620843729:229802005" value="Allianzbelohnungen"/>
 <label key="key:620843797:229802005" value="Stallmeister"/>
 <label key="key:620843798:229802005" value="Stallmeister"/>
@@ -17843,9 +17843,9 @@
 <label key="key:620854310:229802005" value="Spiegelteich"/>
 <label key="key:620854636:229802005" value="Bekannter des Belohnungshändlers der Malledhrim"/>
 <label key="key:620854639:229802005" value="Freundin des Belohnungshändlers der Malledhrim"/>
-<label key="key:620854641:229802005" value="Freundin der Belohnungshändler der Malledhrim"/>
+<label key="key:620854641:229802005" value="Freundin des Belohnungshändlers der Malledhrim"/>
 <label key="key:620854644:229802005" value="Verwandter des Belohnungshändlers der Malledhrim"/>
-<label key="key:620854646:229802005" value="Reisende Händlerin"/>
+<label key="key:620854646:229802005" value="Fahrende Händlerin"/>
 <label key="key:620857732:229802005" value="Zugang zum Düsterwald"/>
 <label key="key:620857884:229802005" value="Scharmützel-Ausbilder"/>
 <label key="key:620857885:229802005" value="Scharmützel-Musikant"/>
@@ -18216,7 +18216,7 @@
 <label key="key:620884574:229802005" value="Tagelöhnerin"/>
 <label key="key:620884575:229802005" value="Weiße Hand"/>
 <label key="key:620884576:229802005" value="Tagelöhnerin"/>
-<label key="key:620884577:229802005" value="Weißen Hand"/>
+<label key="key:620884577:229802005" value="Weiße Hand"/>
 <label key="key:620884578:229802005" value="Arbeiter"/>
 <label key="key:620884691:229802005" value="Stufenaufstieg-Geber"/>
 <label key="key:620884738:229802005" value="Avanc-lûth"/>
@@ -18408,19 +18408,19 @@
 <label key="key:620902636:229802005" value="Feldwebel der Steppe"/>
 <label key="key:620902637:229802005" value="Than von Flutwend"/>
 <label key="key:620902638:229802005" value="Feldwebel der Steppe"/>
-<label key="key:620903419:229802005" value="Sohn Gísils"/>
+<label key="key:620903419:229802005" value="Sohn von Gísil"/>
 <label key="key:620903420:229802005" value="Than von Walstow"/>
 <label key="key:620903421:229802005" value="Greve der Suthofen"/>
-<label key="key:620903422:229802005" value="Sohn Gísils"/>
+<label key="key:620903422:229802005" value="Sohn von Gísil"/>
 <label key="key:620903424:229802005" value="Than von Walstow"/>
 <label key="key:620903426:229802005" value="Greve der Suthofen"/>
 <label key="key:620903434:229802005" value="Than von Garsfeld"/>
-<label key="key:620903436:229802005" value="Sohn Gísils"/>
+<label key="key:620903436:229802005" value="Sohn von Gísil"/>
 <label key="key:620903443:229802005" value="Than von Garsfeld"/>
 <label key="key:620903445:229802005" value="Greve der Suthofen"/>
 <label key="key:620903451:229802005" value="Hauptmann der Wache von Walstow"/>
 <label key="key:620903453:229802005" value="Sohn von Gísil"/>
-<label key="key:620903454:229802005" value="Sohn Gísils"/>
+<label key="key:620903454:229802005" value="Sohn von Gísil"/>
 <label key="key:620903991:229802005" value="Riddermark-Schürfer"/>
 <label key="key:620903992:229802005" value="Riddermark-Holzarbeiter"/>
 <label key="key:620903993:229802005" value="Riddermark-Gelehrter"/>
@@ -18439,8 +18439,8 @@
 <label key="key:620907442:229802005" value="Wachmann"/>
 <label key="key:620907600:229802005" value="Reitlehrer"/>
 <label key="key:620907601:229802005" value="Reitlehrer"/>
-<label key="key:620907889:229802005" value="Hauptmann der Wache"/>
-<label key="key:620907890:229802005" value="Hauptmann der Wache"/>
+<label key="key:620907889:229802005" value="Hauptmann der Steppe"/>
+<label key="key:620907890:229802005" value="Hauptmann der Steppe"/>
 <label key="key:620907891:229802005" value="Wachmann von Harwick"/>
 <label key="key:620907892:229802005" value="Feldwebel der Steppe"/>
 <label key="key:620907893:229802005" value="Die Witwe des Than Utred"/>
@@ -18692,7 +18692,7 @@
 <label key="key:620952061:229802005" value="Kochgilde"/>
 <label key="key:620952062:229802005" value="Schmiedegilde"/>
 <label key="key:620952063:229802005" value="Goldschmiedegilde"/>
-<label key="key:620952064:229802005" value="Gildenhalle der Schneider"/>
+<label key="key:620952064:229802005" value="Schneidergilde"/>
 <label key="key:620952065:229802005" value="Schneidergilde"/>
 <label key="key:620952066:229802005" value="Gelehrtengilde"/>
 <label key="key:620952067:229802005" value="Drechslergilde"/>
@@ -18884,7 +18884,7 @@
 <label key="key:620961919:229802005" value="Hüter der Schlüssel"/>
 <label key="key:620961920:229802005" value="Hüter der Schatzkammer"/>
 <label key="key:620961923:229802005" value="Weißer Zauberer"/>
-<label key="key:620961925:229802005" value="Prinz von Dol Amroth"/>
+<label key="key:620961925:229802005" value="Imrahil, Prinz von Dol Amroth"/>
 <label key="key:620961927:229802005" value="Herr des Schwarzgrundtals"/>
 <label key="key:620961928:229802005" value="Wächter der Zitadelle"/>
 <label key="key:620961929:229802005" value="Wache der Oberen Lager"/>
@@ -18895,9 +18895,9 @@
 <label key="key:620961934:229802005" value="Herr des Schwarzgrundtals"/>
 <label key="key:620961936:229802005" value="Wache des Silbertors"/>
 <label key="key:620961937:229802005" value="Hauptmann des Außenwalls"/>
-<label key="key:620961938:229802005" value="Wache des Sternentors"/>
+<label key="key:620961938:229802005" value="Wache des Steintors"/>
 <label key="key:620961939:229802005" value="Wache des Fürstentors"/>
-<label key="key:620961940:229802005" value="Prinz von Dol Amroth"/>
+<label key="key:620961940:229802005" value="Imrahil, Prinz von Dol Amroth"/>
 <label key="key:620961942:229802005" value="Wache des Silbertors"/>
 <label key="key:620961943:229802005" value="Hüter der Gesetze"/>
 <label key="key:620961944:229802005" value="Oberster Schreiber"/>
@@ -19186,7 +19186,7 @@
 <label key="key:620996375:229802005" value="Anführerin der Rothimmel-Sippe"/>
 <label key="key:620996377:229802005" value="Kriegsanführer"/>
 <label key="key:620996444:229802005" value="König von Rohan"/>
-<label key="key:620996445:229802005" value="Prinz von Dol Amroth"/>
+<label key="key:620996445:229802005" value="Imrahil, Prinz von Dol Amroth"/>
 <label key="key:620996960:229802005" value="Waldläufer von Ithilien"/>
 <label key="key:620997461:229802005" value="Gondorischer Soldat"/>
 <label key="key:620997463:229802005" value="Gondorischer Soldat"/>
@@ -19265,9 +19265,9 @@
 <label key="key:621007222:229802005" value="Prinz des Düsterwalds"/>
 <label key="key:621007226:229802005" value="Prinz des Düsterwalds"/>
 <label key="key:621007227:229802005" value="Herr des Düsterwalds"/>
-<label key="key:621007236:229802005" value="Herr des Goldenen Waldes"/>
+<label key="key:621007236:229802005" value="Fürst des Goldenen Waldes"/>
 <label key="key:621007238:229802005" value="Herrin des Goldenen Waldes"/>
-<label key="key:621007244:229802005" value="Herr des Goldenen Waldes"/>
+<label key="key:621007244:229802005" value="Fürst des Goldenen Waldes"/>
 <label key="key:621007357:229802005" value="Sangemêkh"/>
 <label key="key:621007361:229802005" value="König von Thal"/>
 <label key="key:621007373:229802005" value="Förster"/>
@@ -19337,7 +19337,7 @@
 <label key="key:621010172:229802005" value="Anführerin der Raben"/>
 <label key="key:621010175:229802005" value="Anführerin der Raben"/>
 <label key="key:621010248:229802005" value="Zwergenfestungen: Belohnungen"/>
-<label key="key:621010260:229802005" value="Zwergenfestungen: Handwerks-Belohnungen;fn]"/>
+<label key="key:621010260:229802005" value="Zwergenfestungen: Handwerks-Belohnungen"/>
 <label key="key:621010354:229802005" value="Waldemars Nichte"/>
 <label key="key:621010359:229802005" value="Schmiedegilde"/>
 <label key="key:621010360:229802005" value="Waffenschmiedegilde"/>
@@ -19356,7 +19356,7 @@
 <label key="key:621010373:229802005" value="Schneidergilde"/>
 <label key="key:621010374:229802005" value="Drechslergilde"/>
 <label key="key:621010375:229802005" value="Schmiedegilde"/>
-<label key="key:621010376:229802005" value="Gildenhalle der Schneider"/>
+<label key="key:621010376:229802005" value="Schneidergilde"/>
 <label key="key:621010377:229802005" value="Drechslergilde"/>
 <label key="key:621010378:229802005" value="Kochgilde"/>
 <label key="key:621010379:229802005" value="Gelehrtengilde"/>
@@ -19395,10 +19395,10 @@
 <label key="key:621016415:229802005" value="Erebor-Wächter"/>
 <label key="key:621016518:229802005" value="Der Weinende Krieger"/>
 <label key="key:621016519:229802005" value="Der Weinende Krieger"/>
-<label key="key:621016520:229802005" value="Eine Quartiermeisterin, der mit Staub der Verzauberung handelt. (Reisenden-Ausrüstung)"/>
+<label key="key:621016520:229802005" value="Eine Quartiermeisterin,in der mit Staub der Verzauberung handelt. (Reisenden-Ausrüstung)"/>
 <label key="key:621016521:229802005" value="Eine Quartiermeisterin,in der mit Staub der Verzauberung handelt. (Reisenden-Ausrüstung)"/>
 <label key="key:621016523:229802005" value="Eine Quartiermeisterin, die mit Funken der Verzauberung handelt. (Abenteurer-Ausrüstung)"/>
-<label key="key:621016524:229802005" value="Eine Quartiermeisterin, der mit Staub der Verzauberung handelt. (Reisenden-Ausrüstung)"/>
+<label key="key:621016524:229802005" value="Eine Quartiermeisterin,in der mit Staub der Verzauberung handelt. (Reisenden-Ausrüstung)"/>
 <label key="key:621016719:229802005" value="Kostümschneider"/>
 <label key="key:621017371:229802005" value="Legendäres Angmar: Belohnungen"/>
 <label key="key:621017409:229802005" value="Der Frostfelskönig"/>
@@ -19503,7 +19503,7 @@
 <label key="key:621024539:229802005" value="Waldläufer von Ithilien"/>
 <label key="key:621024597:229802005" value="Drechslergilde"/>
 <label key="key:621024598:229802005" value="Kochgilde"/>
-<label key="key:621024599:229802005" value="Gildenhalle der Goldschmiede"/>
+<label key="key:621024599:229802005" value="Goldschmiedegilde"/>
 <label key="key:621024600:229802005" value="Schmiedegilde"/>
 <label key="key:621024601:229802005" value="Waffenschmiedegilde"/>
 <label key="key:621024602:229802005" value="Gelehrtengilde"/>
@@ -20022,10 +20022,10 @@
 <label key="key:621077450:229802005" value="Schwanenritter"/>
 <label key="key:621077456:229802005" value="Schwanenritter"/>
 <label key="key:621077674:229802005" value="Leuchtfeuerwächterin"/>
-<label key="key:621077675:229802005" value="Leuchtfeuerwache"/>
+<label key="key:621077675:229802005" value="Leuchtfeuerwächter"/>
 <label key="key:621077730:229802005" value="Hauptmann der Schwanenritter"/>
 <label key="key:621078590:229802005" value="Dírions Hund"/>
-<label key="key:621078598:229802005" value="Truchsess der Toten"/>
+<label key="key:621078598:229802005" value="Truchsess des Tals"/>
 <label key="key:621078966:229802005" value="Eventkoordinator"/>
 <label key="key:621078967:229802005" value="Försterjurorin"/>
 <label key="key:621078987:229802005" value="Blinder Passagier"/>
@@ -20069,7 +20069,7 @@
 <label key="key:621084794:229802005" value="Hafen für weite Reisen"/>
 <label key="key:621084795:229802005" value="Hafen für weite Reisen"/>
 <label key="key:621084818:229802005" value="Bündnis-Tauschhändler"/>
-<label key="key:621084820:229802005" value="Bündnis-Tauschhändler"/>
+<label key="key:621084820:229802005" value="Bündnis-Tauschhändlerin"/>
 <label key="key:621084827:229802005" value="Bündnis-Tauschhändlerin"/>
 <label key="key:621085134:229802005" value="Gildenmeisterin der Seeleute"/>
 <label key="key:621085137:229802005" value="Hauptmann des Hafens"/>

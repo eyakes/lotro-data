@@ -24641,6 +24641,11 @@
 <label key="1879533978" value="Mounted"/>
 <label key="1879533979" value="Mounted"/>
 <label key="1879533980" value="Mounted"/>
+<label key="1879536626" value="Mounted"/>
+<label key="1879536627" value="Mounted"/>
+<label key="1879537171" value="DNT - Teleport to Wedding Minas Tirith"/>
+<label key="1879537173" value="Grant the Level-up 160 Trait"/>
+<label key="1879537174" value="Grant the Valar Level 160 Boosted Trait"/>
 <label key="key:620757394:181298206" value="При экипировке: +1% к вероятности нанесения критического урона при автоатаке"/>
 <label key="key:620757396:181298206" value="При экипировке: -5% к блокированию противником автоатак."/>
 <label key="key:620757522:54354734" value="Позволяет использовать умения, основанные на эффекте 'Эхо блокирования'."/>
@@ -41426,4 +41431,12 @@
 <label key="key:621129987:106251890" value="Unable to evade."/>
 <label key="key:621129987:106251891" value="Unable to parry."/>
 <label key="key:621129987:106251892" value="Unable to block."/>
+<label key="key:621131946:106251889" value="Speed: ${PERCENTVALUE}&#10;Morale: 200"/>
+<label key="key:621131946:106251890" value="Unable to evade."/>
+<label key="key:621131946:106251891" value="Unable to parry."/>
+<label key="key:621131946:106251892" value="Unable to block."/>
+<label key="key:621131947:106251889" value="Speed: ${PERCENTVALUE}&#10;Morale: 200"/>
+<label key="key:621131947:106251890" value="Unable to evade."/>
+<label key="key:621131947:106251891" value="Unable to parry."/>
+<label key="key:621131947:106251892" value="Unable to block."/>
 </labels>
