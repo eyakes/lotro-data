@@ -1444,4 +1444,6 @@
 <billingGroup id="964" name="Account-wide access to Neighbour: Haldo Rushbank"/>
 <billingGroup id="965" name="Account-wide access to Neighbour: Golwen"/>
 <billingGroup id="966" name="LS27BetaAccess"/>
+<billingGroup id="967" name="GotWolvesMordStd_levelup"/>
+<billingGroup id="968" name="GotWolvesMordUlt_valar"/>
 </billingGroups>

@@ -97995,4 +97995,28 @@
 <stat name="ForwardSource_Entity_Camera_LookAt_OffsetZ" operator="SET" descriptionOverride="-" constant="0.75"/>
 <stat name="ForwardSource_Entity_Camera_LookAt_OffsetY" operator="SET" descriptionOverride="-" constant="0.2"/>
 </propertyModEffect>
+<propertyModEffect id="1879536604" iconId="1090553792" baseFlags="6332">
+<stat name="CosmeticEntity_CosmeticPet_ForwardSource" operator="SET" descriptionOverride="-" value="1879536603L"/>
+</propertyModEffect>
+<propertyModEffect id="1879536626" name="Mounted" iconId="1090519170" baseFlags="6316">
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" descriptionOverride="key:621131946:106251889" modifiers="SET:268459053" constant="62.0"/>
+<stat name="Combat_CanEvade" operator="SET" descriptionOverride="key:621131946:106251890" value="false"/>
+<stat name="Combat_CanParry" operator="SET" descriptionOverride="key:621131946:106251891" value="false"/>
+<stat name="Combat_CanBlock" operator="SET" descriptionOverride="key:621131946:106251892" value="false"/>
+<stat name="ForwardSource_Entity_Camera_LookAt_OffsetZ" operator="SET" descriptionOverride="-" constant="0.75"/>
+<stat name="ForwardSource_Entity_Camera_LookAt_OffsetY" operator="SET" descriptionOverride="-" constant="0.2"/>
+</propertyModEffect>
+<propertyModEffect id="1879536627" name="Mounted" iconId="1090519170" baseFlags="6316">
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" descriptionOverride="key:621131947:106251889" modifiers="SET:268459053" constant="62.0"/>
+<stat name="Combat_CanEvade" operator="SET" descriptionOverride="key:621131947:106251890" value="false"/>
+<stat name="Combat_CanParry" operator="SET" descriptionOverride="key:621131947:106251891" value="false"/>
+<stat name="Combat_CanBlock" operator="SET" descriptionOverride="key:621131947:106251892" value="false"/>
+<stat name="ForwardSource_Entity_Camera_LookAt_OffsetZ" operator="SET" descriptionOverride="-" constant="0.75"/>
+<stat name="ForwardSource_Entity_Camera_LookAt_OffsetY" operator="SET" descriptionOverride="-" constant="0.2"/>
+</propertyModEffect>
+<travelEffect id="1879537171" name="DNT - Teleport to Wedding Minas Tirith" baseFlags="4124" sceneID="1879500853">
+<position region="5" longitude="-62.025417" latitude="-62.237415"/>
+</travelEffect>
+<effect id="1879537173" name="Grant the Level-up 160 Trait" baseFlags="4124"/>
+<effect id="1879537174" name="Grant the Valar Level 160 Boosted Trait" baseFlags="4124"/>
 </effects>

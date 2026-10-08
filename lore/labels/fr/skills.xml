@@ -13239,6 +13239,9 @@
 <label key="1879533983" value="Monture du chasseur de loups-garous"/>
 <label key="1879533985" value="Monture du commandant intrépide"/>
 <label key="1879533986" value="Monture du chasseur de loups-garous"/>
+<label key="1879536605" value="Midnight Raven"/>
+<label key="1879536628" value="Steed of the Midnight Raven"/>
+<label key="1879536629" value="Steed of the Midnight Raven"/>
 <label key="key:620759186:228830419" value="Après avoir utilisé une Frappe à double tranchant, portez deux attaques puissantes contre tes ennemis.&#10;&#10;&lt;rgb=#FFFF00&gt;Deux armes nécessaires.&lt;/rgb&gt;"/>
 <label key="key:620759211:228830419" value="Après Frappe à double tranchant, attaquez votre adversaire à la gorge."/>
 <label key="key:620759243:228830419" value="Fait trembler la terre comme si un Ent frappait le sol du pied, infligeant de gros dégâts à plusieurs ennemis.&#10;&#10;Si votre cible a été récemment secouée par Terre craquelée, cette compétence inflige des dégâts supplémentaires."/>
@@ -19579,4 +19582,9 @@
 <label key="key:621129985:138936629" value="Éclipse"/>
 <label key="key:621129986:138936629" value="Odyssée"/>
 <label key="key:621129987:138936629" value="Odyssée"/>
+<label key="key:621131921:33816677" value="Edgar"/>
+<label key="key:621131924:211796645" value="Available through barter during the Fall Festival."/>
+<label key="key:621131924:228830419" value="Summons a raven to join you at your hearth or travel the world with you."/>
+<label key="key:621131946:138936629" value="Poe"/>
+<label key="key:621131947:138936629" value="Poe"/>
 </labels>

@@ -12763,7 +12763,7 @@
 <groupSize key="SOLO"/>
 <groupSize key="DUO"/>
 <instanceMap>
-<map mapId="268452526" region="2" minLon="-26.799999237060547" minLat="16.399999618530273" maxLon="-26.0" maxLat="17.19999885559082"/>
+<map mapId="268452526" region="2" minLon="-27.599998474121094" minLat="16.399999618530273" maxLon="-26.0" maxLat="17.19999885559082"/>
 <zone zoneId="1879362296"/>
 </instanceMap>
 </skirmishPrivateEncounter>

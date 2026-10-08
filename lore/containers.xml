@@ -6168,4 +6168,7 @@
 <container id="1879536192" name="Large Crate of Rare Ore Ingredients" openPolicy="USER_SELECTION" trophyListId="1879536184"/>
 <container id="1879536193" name="Large Crate of Rare Wood Ingredients" openPolicy="USER_SELECTION" trophyListId="1879536189"/>
 <container id="1879536195" name="Large Crate of Cook Ingredients" openPolicy="USER_SELECTION" trophyListId="1879536187"/>
+<container id="1879536640" name="Garments of the Midnight Raven - Gift-wrapped Selection Box" openPolicy="USER_SELECTION" trophyListId="1879536639"/>
+<container id="1879536642" name="War-steed Cosmetics of the Midnight Raven" trophyListId="1879536641"/>
+<container id="1879537178" name="160 level-up package" trophyListId="1879537179"/>
 </containers>
